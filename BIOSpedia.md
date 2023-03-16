@@ -59,10 +59,6 @@
 ## Settings
 ### CPU Common Options
 Core Performance Boost
-Yes, you can use HTML tags to add colored text in markdown files on Github. Here's an example:
-
-html
-Copy code
 <span style="color:red"> Disable CPB red</span>
 
 Global C-state Control
