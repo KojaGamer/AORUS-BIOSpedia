@@ -6,8 +6,8 @@
       - [Custom Core Pstates](#Custom-Core-Pstates)
       - [DF Common Options](#DF-Common-Options)
       - [NBIO Common Options](#NBIO-Common-Options)
-      - [UMC Common Options]
-      - [XFR Enhancement]
+      - [UMC Common Options](#UMC-Common-Options)
+      - [XFR Enhancement](#XFR-Enhancement)
     - [AMD Overclocking](#AMD-Overclocking)
       -  DDR and Infinity Fabric Frequency/Timings
       -  Manual CPU Overclocking
