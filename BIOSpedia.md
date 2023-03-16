@@ -19,10 +19,10 @@
       - [USB Configuration](#USB-Configuration)
     - [Miscellaneous](#Miscellaneous)
       - [Trusted Computing](#Trusted-Computing)
-    - [PC Health](#)
-    - [Platform Power](#)
-    - [Smart Fan 5](#)
-  - [Smart Fan 5](#)
+    - [PC Health](#PC-Health)
+    - [Platform Power](#Platform-Power)
+    - [Smart Fan 5](#Smart-Fan-5)
+- [a](#)
 - [0](#)
 - [1](#)
 - [2](#)
@@ -96,5 +96,3 @@
 ## Platform Power
 
 ## Smart Fan 5
-
-### Smart Fan 5
