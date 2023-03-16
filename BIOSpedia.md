@@ -60,7 +60,7 @@
 ### CPU Common Options
 Core Performance Boost
 '''diff
--Disable CPB
+-Disable CPB-
 
 Global C-state Control
 Controls IO based C-state generation and DF C-states.
