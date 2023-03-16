@@ -117,7 +117,7 @@ Indirect branch instructions are used in computer programs to transfer control t
 The "Indirect Branch Prediction Speculation" option in the BIOS determines how the CPU's branch predictor handles these instructions. When enabled, the CPU will use speculative execution to try to predict the target of an indirect branch instruction, which can improve performance in some cases. When disabled, the CPU will use a more conservative approach that may be less vulnerable to certain types of attacks, but may also result in reduced performance.
 It's worth noting that this setting can have implications for security, as speculative execution has been exploited in the past to execute unauthorized code. However, modern CPUs have implemented a variety of security features to mitigate these risks.
 
-#Anything written in blue colour is the stock explanation of  BIOS.
+#Anything written in parenthesis is the stock explanation of BIOS.
 
 ### Custom Core Pstates
 
