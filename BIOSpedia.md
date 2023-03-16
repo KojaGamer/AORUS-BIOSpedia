@@ -9,10 +9,22 @@
     <td>Lorem ipsum ...</td>
  </tr>
 </table>
-           						                                      - [System Info](#System-Info)
-- [Tweaker](#Tweaker)				                        	    	- [Boot](#Boot)
-  - [Advanced CPU Settigns](#Advanced-CPU-Settigns)		        - [Secure Boot](#Secure-Boot)
-  - [Advanced Memory Settigns](#Advanced-Memory-Settigns)	
+
+<div style="display: inline-block; width: 49%;">
+    
+This is the content of the left column.
+    
+</div>
+
+<div style="display: inline-block; width: 49%;">
+    
+This is the content of the right column.
+    
+</div>
+
+- [Tweaker](#Tweaker)
+  - [Advanced CPU Settigns](#Advanced-CPU-Settigns)
+  - [Advanced Memory Settigns](#Advanced-Memory-Settigns)
     - [Memory Subtimings](#Memory-Subtimings)
     - [SPD Info](#SPD-Info)
   - [CPU-VRM Settings](#CPU-VRM-Settings)
