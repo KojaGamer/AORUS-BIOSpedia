@@ -9,16 +9,16 @@
       - [UMC Common Options](#UMC-Common-Options)
       - [XFR Enhancement](#XFR-Enhancement)
     - [AMD Overclocking](#AMD-Overclocking)
-      -  DDR and Infinity Fabric Frequency/Timings
-      -  Manual CPU Overclocking
-    - [IO Ports](#benchmarks)
-      - Intel® I211 Gigabit Network Connection
-      - Network Stack Configuration
-      - NVMe Configuration
-      - SATA Configuration
-      - USB Configuration
+      - [DDR and Infinity Fabric Frequency/Timings](#DDR-and-Infinity-Fabric-Frequency/Timings)
+      - [Manual CPU Overclocking](Manual-CPU-Overclocking)
+    - [IO Ports](#IO-Ports)
+      - [Intel® I211 Gigabit Network Connection]
+      - [Network Stack Configuration]
+      - [NVMe Configuration]
+      - [SATA Configuration]
+      - [USB Configuration]
     - [Miscellaneous]
-      - Trusted Computing
+      - [Trusted Computing]
     - [PC Health]
     - [Platform Power]
     - [Smart Fan 5](#general-ram-info)
@@ -134,4 +134,14 @@ It's worth noting that this setting can have implications for security, as specu
 
 ### NBIO Common Options
 
+### UMC Common Options
+
+### XFR Enhancement
+
 ## AMD Overclocking
+
+### DDR and Infinity Fabric Frequency/Timings
+
+### Manual CPU Overclocking
+
+## IO Ports
