@@ -89,7 +89,7 @@ SEV technology provides hardware-based memory encryption to help protect virtual
 * SEV-ES ASID Space Limit Control
 	* SEV-ES ASID Space Limit
 	
-	SEV VMs using ASIDs below the SEV-ES ASID Space Limit must enable SEV-ES feature. ASIDs from SEV-ES ASID Space Limit to (SEV ASID Count + 1) can only be used   	with SEV VMs. If this field is set to (SEV ASID Count + 1), all ASIDs are forced to be SEV-ES ASIDs. Hence, the valid values for this field is 1 - (SEV ASID
+	((SEV VMs using ASIDs below the SEV-ES ASID Space Limit must enable SEV-ES feature. ASIDs from SEV-ES ASID Space Limit to (SEV ASID Count + 1) can only be used   	with SEV VMs. If this field is set to (SEV ASID Count + 1), all ASIDs are forced to be SEV-ES ASIDs. Hence, the valid values for this field is 1 - (SEV ASID))
 
 * Streaming Stores Control
 
