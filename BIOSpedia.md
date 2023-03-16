@@ -23,7 +23,7 @@
     - [PC Health](#PC-Health)
     - [Platform Power](#Platform-Power)
     - [Smart Fan 5](#Smart-Fan-5)
-- [a](#)
+ - [System Info](#System-Info)
 - [0](#)
 - [1](#)
 - [2](#)
