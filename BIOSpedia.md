@@ -5,10 +5,10 @@
       - [CPU Common Options](#CPU-Common-Options)
       - [Custom Core Pstates](#Custom-Core-Pstates)
       - [DF Common Options](#DF-Common-Options)
-      - [NBIO Common Options](#comparison)
+      - [NBIO Common Options](#NBIO-Common-Options)
       - [UMC Common Options]
       - [XFR Enhancement]
-    - [AMD Overclocking](#timings-software)
+    - [AMD Overclocking](#AMD-Overclocking)
       -  DDR and Infinity Fabric Frequency/Timings
       -  Manual CPU Overclocking
     - [IO Ports](#benchmarks)
@@ -133,72 +133,6 @@ It's worth noting that this setting can have implications for security, as specu
 
 ### Custom Core Pstates
 
-### Comparison
-    
-## Timings Software
-    
-## Benchmarks
+### NBIO Common Options
 
-# General RAM Info
-
-## Frequency and Timings Relation
-
-## Primary, Secondary and Tertiary Timings
-
-# Expectations/Limitations
-
-## Motherboard
-  
-## Integrated Circuits (ICs)
-
-### Shorthand Notation
-
-### Thaiphoon Report
-
-### Label on Sticks
-
-#### Corsair Version Number
-
-#### G.Skill 042 Code
-
-#### Kingston Code
-
-### A Note on Logical Ranks and Density
-
-### Voltage Scaling
-  
-### Expected Max Frequency
-  
-### Binning
-  
-### Maximum Recommended Daily Voltage
-
-### Ranking
-
-### Temperatures and Its Effect on Stability
- 
-## Integrated Memory Controller (IMC)
-
-### Intel IMC
-  
-### AMD IMC
-  
-# Overclocking
-
-## Finding a Baseline
-   
-## Trying Higher Frequencies
-   
-## Tightening Timings
-    
-## Miscellaneous Tips
-
-### Intel
-
-### AMD
-
-# Useful Links
-
-## Benchmarks
-
-## Information
+## AMD Overclocking
