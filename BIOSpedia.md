@@ -8,16 +8,16 @@
 - [Settings](#Settings)
   - [AMD CBS](#memory-testing-software)
     - [CPU Common Options](#CPU-Common-Options)
-      - [Performance](#)
-        - [Custom Core Pstates](#)
-      - [Prefetcher settings](#)
-      - [Core Watchdog](#)
+      - [Performance](#Performance)
+        - [Custom Core Pstates](#Custom-Core-Pstates)
+      - [Prefetcher settings](#Prefetcher-settings)
+      - [Core Watchdog](#Core-Watchdog)
     - [Custom Core Pstates](#Custom-Core-Pstates)
     - [DF Common Options](#DF-Common-Options)
-      - [Scrubber](#)
-      - [Memory Adressing](#)
-      - [ACPI](#)
-      - [Link](#)
+      - [Scrubber](#Scrubber)
+      - [Memory Adressing](#Memory-Adressing)
+      - [ACPI](#ACPI)
+      - [Link](#Link)
     - [NBIO Common Options](#NBIO-Common-Options)
     - [UMC Common Options](#UMC-Common-Options)
     - [XFR Enhancement](#XFR-Enhancement)
@@ -72,7 +72,23 @@
 
 ### CPU Common Options
 
+#### Performance
+
+##### Custom Core Pstates
+
+#### Prefetcher settings
+
+#### Core Watchdog
+
 ### DF Common Options
+
+#### Scrubber
+
+#### Memory Adressing
+
+#### ACPI
+
+#### Link
 
 ### UMC Common Options
 
