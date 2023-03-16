@@ -26,52 +26,52 @@
   - [System Info](#System-Info)
   - [Boot](#Boot)
 
-## Tweaker
+# Tweaker
 
-## Settings
+# Settings
 
-### Platform Power
+## Platform Power
 
-### IO Ports
+## IO Ports
 
-#### USB Configuration
+### USB Configuration
 
-#### NVMe Configuration
+### NVMe Configuration
 
-#### SATA Configuration
+### SATA Configuration
 
-#### Network Stack Configuration
+### Network Stack Configuration
 
-#### Intel® I211 Gigabit Network Connection
+### Intel® I211 Gigabit Network Connection
 
-### AMD CBS
+## AMD CBS
 
-#### XFR Enhancement
+### XFR Enhancement
 
-#### Custom Core Pstates
+### Custom Core Pstates
 
-#### CPU Common Options
+### CPU Common Options
 
-#### DF Common Options
+### DF Common Options
 
-#### UMC Common Options
+### UMC Common Options
 
-#### NBIO Common Options
+### NBIO Common Options
 
-### AMD Overclocking
+## AMD Overclocking
 
-#### DDR and Infinity Fabric Frequency/Timings
+### DDR and Infinity Fabric Frequency/Timings
 
-#### Manual CPU Overclocking
+### Manual CPU Overclocking
 
-### PC Health
+## PC Health
 
-### Smart Fan 5
+## Smart Fan 5
 
-### Miscellaneous
+## Miscellaneous
 
-#### Trusted Computing
+### Trusted Computing
 
-## System Info
+# System Info
 
-## Boot
+# Boot
