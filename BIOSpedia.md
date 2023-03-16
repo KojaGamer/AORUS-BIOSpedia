@@ -58,7 +58,7 @@
 # Setup
 ## Settings
 ### CPU Common Options
-*Core Performance Boost
+* Core Performance Boost
 (Disable CPB)
 
 * Global C-state Control
