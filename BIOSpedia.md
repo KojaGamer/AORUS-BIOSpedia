@@ -1,6 +1,11 @@
 # BIOS
 - [Boot](#table-of-contents)
   - [Tweaker](#Tweaker)
+    - [Advanced CPU Settigns](#Advanced-CPU-Settigns)
+    - [Advanced Memory Settigns](#Advanced-Memory-Settigns)
+      - [Memory Subtimings](#Memory-Subtimings)
+      - [SPD Info](#SPD-Info)
+    - [CPU-VRM Settings](#CPU-VRM-Settings)
   - [Settings](#Settings)
     - [AMD CBS](#memory-testing-software)
       - [CPU Common Options](#CPU-Common-Options)
@@ -27,6 +32,12 @@
   - [Boot](#Boot)
 
 # Tweaker
+
+## Advanced CPU Settigns
+
+## Advanced Memory Settigns
+
+## CPU-VRM Settings
 
 # Settings
 ![230316162544](https://user-images.githubusercontent.com/88921486/225726994-e108a5f4-54da-46df-8c87-8a4aca748817.JPG)
