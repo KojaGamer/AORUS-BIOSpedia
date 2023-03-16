@@ -1,13 +1,19 @@
 # BIOS
 - [Boot](#table-of-contents)
 - [Settings](#setup)
-  - [Memory Testing Software](#memory-testing-software)
-    - [Avoid](#avoid)
-    - [Recommended](#recommended)
-    - [Alternatives](#alternatives)
-    - [Comparison](#comparison)
-  - [Timings Software](#timings-software)
-  - [Benchmarks](#benchmarks)
+  - [AMD CBS](#memory-testing-software)
+    - [CPU Common Options](#avoid)
+    - [Custom Core Pstates](#recommended)
+    - [DF Common Options](#alternatives)
+    - [NBIO Common Options](#comparison)
+    - [UMC Common Options]
+    - [XFR Enhancement]
+  - [AMD Overclocking](#timings-software)
+  - [IO Ports](#benchmarks)
+  - [Miscellaneous]
+  - [PC Health]
+  - [Platform Power]
+  - [Smart Fan 5](#general-ram-info)
 - [Smart Fan 5](#general-ram-info)
   - [Frequency and Timings Relation](#frequency-and-timings-relation)
   - [Primary, Secondary and Tertiary Timings](#primary-secondary-and-tertiary-timings)
