@@ -60,7 +60,7 @@
 ### CPU Common Options
 * Core Performance Boost
 
-(Disable CPB)
+((Disable CPB))
 
 * Global C-state Control
 
@@ -91,7 +91,7 @@ SEV technology provides hardware-based memory encryption to help protect virtual
 
 * Streaming Stores Control
 
-(Enables or disables the streaming stores functionality)
+((Enables or disables the streaming stores functionality))
 
 The "Streaming Stores Control" option in the BIOS refers to a feature found in some modern processors that allows programs to store data in a more efficient manner. Streaming stores are a type of memory operation that can be used by some applications to write data directly to the cache memory, bypassing the slower system memory.
 Enabling this option in the BIOS will allow the processor to use streaming stores when supported by the software running on the system. Disabling it will prevent the processor from using this feature, which may be necessary in some rare cases to ensure compatibility with certain software or hardware configurations.
@@ -101,11 +101,11 @@ Whether to enable or disable this option depends on your specific use case and t
 
 * ACPI_CST C1 Declaration
 
-(Determines whether or not to declare the C1 state to the OS.)
+((Determines whether or not to declare the C1 state to the OS.))
 
 * MCA error thresh enable
 
-(Enable MCA error thresholding.)
+((Enable MCA error thresholding.))
 
 "Enable MCA error thresh enable" in BIOS refers to a setting that enables or disables Machine Check Architecture (MCA) error threshold reporting. MCA is a hardware error reporting mechanism used in modern CPUs, which allows the processor to detect and report hardware errors that occur during operation.
 Enabling the MCA error threshold reporting feature will allow the system to monitor and report hardware errors that exceed a certain threshold. This can be useful in detecting and diagnosing hardware problems before they cause system crashes or data corruption.
@@ -113,7 +113,7 @@ Typically, this setting is found in the Advanced BIOS options menu and is disabl
 
 * PPIN Opt-in
 
-(Turn on PPIN feature)
+((Turn on PPIN feature))
 
 PPIN (Platform Processor Identifier Number) is a security feature provided by AMD processors that is used to authenticate the processor to the system. The PPIN Opt-in setting in the BIOS allows you to enable or disable this feature.
 When the PPIN Opt-in feature is turned on, the processor generates a unique identifier that is tied to the system. This identifier can be used by security software to ensure that the processor is authentic and that the system has not been tampered with.
@@ -127,7 +127,7 @@ Indirect branch instructions are used in computer programs to transfer control t
 The "Indirect Branch Prediction Speculation" option in the BIOS determines how the CPU's branch predictor handles these instructions. When enabled, the CPU will use speculative execution to try to predict the target of an indirect branch instruction, which can improve performance in some cases. When disabled, the CPU will use a more conservative approach that may be less vulnerable to certain types of attacks, but may also result in reduced performance.
 It's worth noting that this setting can have implications for security, as speculative execution has been exploited in the past to execute unauthorized code. However, modern CPUs have implemented a variety of security features to mitigate these risks.
 
-#Anything written in parenthesis is the stock explanation of BIOS.
+#Anything written in double parenthesis is the stock explanation of BIOS.
 
 ### Custom Core Pstates
 
