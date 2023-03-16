@@ -59,7 +59,8 @@
 ## Settings
 ### CPU Common Options
 Core Performance Boost
-<span style="color:red"> Disable CPB red</span>
+<span style="color:red">Disable CPB</span>
+<font color="red">Disable CPB</font>
 
 Global C-state Control
 Controls IO based C-state generation and DF C-states.
