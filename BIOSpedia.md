@@ -2,7 +2,7 @@
 - [Boot](#table-of-contents)
   - [Settings](#setup)
     - [AMD CBS](#memory-testing-software)
-      - [CPU Common Options](#avoid)
+      - [CPU Common Options](#CPU Common Options)
       - [Custom Core Pstates](#recommended)
       - [DF Common Options](#alternatives)
       - [NBIO Common Options](#comparison)
