@@ -74,6 +74,7 @@ The choice of which option to use will depend on your specific needs and prefere
 
 SEV ASID Count
 This field specifies the maximum valid ASID, which affects the maximum system physical address space, 16TB of physical address space is available for systems that support 253 ASIDs, while 8TB of physical address space is available for systems that support 509 ASIDs.
+
 The "SEV ASID Count" option in BIOS refers to the maximum number of Address Space Identifier (ASID) values that the system can support when using AMD Secure Encrypted Virtualization (SEV) technology.
 ASIDs are used to distinguish between different virtual machines running on a system. By limiting the number of ASIDs that can be used, the amount of physical address space that can be addressed by the system is also limited.
 With SEV enabled, the maximum physical address space available to the system depends on the number of ASIDs supported. As the description in the BIOS suggests, a system supporting 253 ASIDs can address up to 16TB of physical memory, while a system supporting 509 ASIDs can address up to 8TB of physical memory.
@@ -82,14 +83,18 @@ SEV technology provides hardware-based memory encryption to help protect virtual
 SEV-ES ASID Space Limit Control
 	SEV-ES ASID Space Limit
 	SEV VMs using ASIDs below the SEV-ES ASID Space Limit must enable SEV-ES feature.	ASIDs from SEV-ES ASID Space Limit to (SEV ASID Count + 1) can only be used with SEV	VMs. If this field is set to (SEV ASID Count + 1), all ASIDs are forced to be SEV-ES ASIDs.	Hence, the valid values for this field is 1 - (SEV ASID
+
 Streaming Stores Control
 Enables or disables the streaming stores functionality
 
 The "Streaming Stores Control" option in the BIOS refers to a feature found in some modern processors that allows programs to store data in a more efficient manner. Streaming stores are a type of memory operation that can be used by some applications to write data directly to the cache memory, bypassing the slower system memory.
 Enabling this option in the BIOS will allow the processor to use streaming stores when supported by the software running on the system. Disabling it will prevent the processor from using this feature, which may be necessary in some rare cases to ensure compatibility with certain software or hardware configurations.
 Whether to enable or disable this option depends on your specific use case and the software you are running on your system. In general, if you are running modern software that supports streaming stores, enabling this option can provide a performance boost. However, if you are experiencing compatibility issues or other problems, disabling the option may be necessary.
+
 Local APIC Mode
-ACPI_CST C1 Declatration
+
+ACPI_CST C1 Declaration
+Determines whether or not to declare the C1 state to the OS.
 
 MCA error thresh enable
 Enable MCA error thresholding.
@@ -111,6 +116,8 @@ The "Indirect Branch Prediction Speculation" option in BIOS is a setting that co
 Indirect branch instructions are used in computer programs to transfer control to another part of the program based on a value that is computed at runtime. The behavior of these instructions can be difficult to predict, which can lead to performance issues if the CPU's branch predictor guesses incorrectly.
 The "Indirect Branch Prediction Speculation" option in the BIOS determines how the CPU's branch predictor handles these instructions. When enabled, the CPU will use speculative execution to try to predict the target of an indirect branch instruction, which can improve performance in some cases. When disabled, the CPU will use a more conservative approach that may be less vulnerable to certain types of attacks, but may also result in reduced performance.
 It's worth noting that this setting can have implications for security, as speculative execution has been exploited in the past to execute unauthorized code. However, modern CPUs have implemented a variety of security features to mitigate these risks.
+
+#Anything written in blue colour is the stock explanation of  BIOS.
 ### Recommended
 * [TM5](https://mega.nz/file/vLhxBahB#WwJIpN3mQOaq_XsJUboSIcaMg3RlVBWvFnVspgJpcLY) with any of the configs listed:
   * [Extreme by anta777](TM5-Configs/extreme@anta777.cfg) (recommended). Make sure to load the config. It should say 'Customize: Extreme1 @anta777' if loaded.  
