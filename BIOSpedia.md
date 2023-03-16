@@ -6,9 +6,11 @@
  </tr>
  <tr>
     <td>Lorem ipsum ...</td>
-    <td>- [System Info](#System-Info)
+    <td>
+- [System Info](#System-Info)
 - [Boot](#Boot)
-  - [Secure Boot](#Secure-Boot) ...</td>
+  - [Secure Boot](#Secure-Boot)
+  </td>
  </tr>
 </table>
 
