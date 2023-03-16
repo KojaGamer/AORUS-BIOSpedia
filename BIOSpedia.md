@@ -24,6 +24,7 @@
     - [Platform Power](#Platform-Power)
     - [Smart Fan 5](#Smart-Fan-5)
   - [System Info](#System-Info)
+  - [Boot](#Boot)
 
 ## Tweaker
 
@@ -70,3 +71,7 @@
 ### Miscellaneous
 
 #### Trusted Computing
+
+## System Info
+
+## Boot
