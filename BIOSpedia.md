@@ -47,6 +47,18 @@
 
 ### Platform Power
 
+### IO Ports
+
+#### USB Configuration
+
+#### NVMe Configuration
+
+#### SATA Configuration
+
+#### Network Stack Configuration
+
+#### Intel® I211 Gigabit Network Connection
+
 ### AMD CBS
 
 #### XFR Enhancement
@@ -57,36 +69,23 @@
 
 #### DF Common Options
 
-### UMC Common Options
+#### UMC Common Options
 
 #### NBIO Common Options
 
-
 ### AMD Overclocking
 
-### DDR and Infinity Fabric Frequency/Timings
+#### DDR and Infinity Fabric Frequency/Timings
 
-### Manual CPU Overclocking
-
-## IO Ports
-
-### USB Configuration
-
-### NVMe Configuration
-
-### SATA Configuration
-
-### Network Stack Configuration
-
-### Intel® I211 Gigabit Network Connection
-
-### Miscellaneous
-
-### Trusted Computing
+#### Manual CPU Overclocking
 
 ### PC Health
 
 ### Smart Fan 5
+
+### Miscellaneous
+
+#### Trusted Computing
 
 
 
