@@ -1,5 +1,6 @@
 # BIOS
 - [Boot](#table-of-contents)
+  - [Tweaker](#Tweaker)
   - [Settings](#Settings)
     - [AMD CBS](#memory-testing-software)
       - [CPU Common Options](#CPU-Common-Options)
@@ -54,6 +55,8 @@
 - [28](#)
 - [29](#)
 - [30](#)
+
+## Tweaker
 
 ## Settings
 ### CPU Common Options
