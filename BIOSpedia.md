@@ -55,7 +55,6 @@
   - [Benchmarks](#benchmarks-1)
   - [Information](#information)
 
-# Setup
 ## Settings
 ### CPU Common Options
 * #Anything written in double parenthesis is the stock explanation of BIOS.
