@@ -1,6 +1,6 @@
 # BIOS
-    <td>Hey one </td>
-    <td>Hey two </td>
+<td>Hey one </td>
+<td>Hey two </td>
 
 - [Tweaker](#Tweaker)
   - [Advanced CPU Settigns](#Advanced-CPU-Settigns)
