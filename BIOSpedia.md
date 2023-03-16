@@ -3,7 +3,7 @@
   - [Settings](#Settings)
     - [AMD CBS](#memory-testing-software)
       - [CPU Common Options](#CPU-Common-Options)
-      - [Custom Core Pstates](#recommended)
+      - [Custom Core Pstates](#Custom-Core-Pstates)
       - [DF Common Options](#alternatives)
       - [NBIO Common Options](#comparison)
       - [UMC Common Options]
@@ -119,7 +119,7 @@ It's worth noting that this setting can have implications for security, as specu
 
 #Anything written in blue colour is the stock explanation of  BIOS.
 
-### Recommended
+### Custom Core Pstates
 
 ### Comparison
     
