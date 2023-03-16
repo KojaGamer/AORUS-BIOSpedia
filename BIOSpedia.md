@@ -1,5 +1,4 @@
 # BIOS
-<table border="0">
  <tr>
     <td>
 - [Tweaker](#Tweaker)
@@ -67,7 +66,6 @@
   - [Secure Boot](#Secure-Boot)
   </td>
  </tr>
-</table>
 
 
 
