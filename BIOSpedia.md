@@ -1,6 +1,6 @@
 # BIOS
 - [Boot](#table-of-contents)
-  - [Settings](#setup)
+  - [Settings](#Settings)
     - [AMD CBS](#memory-testing-software)
       - [CPU Common Options](#CPU-Common-Options)
       - [Custom Core Pstates](#recommended)
@@ -56,7 +56,7 @@
   - [Information](#information)
 
 # Setup
-## Memory Testing Software
+## Settings
 ### CPU Common Options
 Core Performance Boost
 Disable CPB
