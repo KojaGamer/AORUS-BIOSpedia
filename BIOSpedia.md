@@ -2,25 +2,15 @@
 <table border="0">
  <tr>
     <td><b style="font-size:30px">Title</b></td>
+  Hey one
     <td><b style="font-size:30px">Title 2</b></td>
  </tr>
  <tr>
     <td>Lorem ipsum ...</td>
+  Hey two
     <td>Lorem ipsum ...</td>
  </tr>
 </table>
-
-<div style="display: inline-block; width: 49%;">
-    
-This is the content of the left column.
-    
-</div>
-
-<div style="display: inline-block; width: 49%;">
-    
-This is the content of the right column.
-    
-</div>
 
 - [Tweaker](#Tweaker)
   - [Advanced CPU Settigns](#Advanced-CPU-Settigns)
