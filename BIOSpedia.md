@@ -1,20 +1,28 @@
 # BIOS
 - [Boot](#table-of-contents)
-- [Settings](#setup)
-  - [AMD CBS](#memory-testing-software)
-    - [CPU Common Options](#avoid)
-    - [Custom Core Pstates](#recommended)
-    - [DF Common Options](#alternatives)
-    - [NBIO Common Options](#comparison)
-    - [UMC Common Options]
-    - [XFR Enhancement]
-  - [AMD Overclocking](#timings-software)
-  - [IO Ports](#benchmarks)
-  - [Miscellaneous]
-  - [PC Health]
-  - [Platform Power]
+  - [Settings](#setup)
+    - [AMD CBS](#memory-testing-software)
+      - [CPU Common Options](#avoid)
+      - [Custom Core Pstates](#recommended)
+      - [DF Common Options](#alternatives)
+      - [NBIO Common Options](#comparison)
+      - [UMC Common Options]
+      - [XFR Enhancement]
+    - [AMD Overclocking](#timings-software)
+      -  DDR and Infinity Fabric Frequency/Timings
+      -  Manual CPU Overclocking
+    - [IO Ports](#benchmarks)
+      - Intel® I211 Gigabit Network Connection
+      - Network Stack Configuration
+      - NVMe Configuration
+      - SATA Configuration
+      - USB Configuration
+    - [Miscellaneous]
+      - Trusted Computing
+    - [PC Health]
+    - [Platform Power]
+    - [Smart Fan 5](#general-ram-info)
   - [Smart Fan 5](#general-ram-info)
-- [Smart Fan 5](#general-ram-info)
   - [Frequency and Timings Relation](#frequency-and-timings-relation)
   - [Primary, Secondary and Tertiary Timings](#primary-secondary-and-tertiary-timings)
 - [System Info](#expectationslimitations)
