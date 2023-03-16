@@ -1,15 +1,7 @@
 # BIOS
 <table border="0">
  <tr>
-    <td>Lorem ipsum ...</td>
     <td>
-- [System Info](#System-Info)
-- [Boot](#Boot)
-  - [Secure Boot](#Secure-Boot)
-  </td>
- </tr>
-</table>
-
 - [Tweaker](#Tweaker)
   - [Advanced CPU Settigns](#Advanced-CPU-Settigns)
   - [Advanced Memory Settigns](#Advanced-Memory-Settigns)
@@ -68,6 +60,16 @@
   - [PC Health](#PC-Health)
   - [Platform Power](#Platform-Power)
   - [Smart Fan 5](#Smart-Fan-5)
+  </td>
+    <td>
+- [System Info](#System-Info)
+- [Boot](#Boot)
+  - [Secure Boot](#Secure-Boot)
+  </td>
+ </tr>
+</table>
+
+
 
 
 
