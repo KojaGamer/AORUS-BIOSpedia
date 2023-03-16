@@ -58,6 +58,8 @@
 # Setup
 ## Settings
 ### CPU Common Options
+* #Anything written in double parenthesis is the stock explanation of BIOS.
+
 * Core Performance Boost
 
 ((Disable CPB))
@@ -126,8 +128,6 @@ The "Indirect Branch Prediction Speculation" option in BIOS is a setting that co
 Indirect branch instructions are used in computer programs to transfer control to another part of the program based on a value that is computed at runtime. The behavior of these instructions can be difficult to predict, which can lead to performance issues if the CPU's branch predictor guesses incorrectly.
 The "Indirect Branch Prediction Speculation" option in the BIOS determines how the CPU's branch predictor handles these instructions. When enabled, the CPU will use speculative execution to try to predict the target of an indirect branch instruction, which can improve performance in some cases. When disabled, the CPU will use a more conservative approach that may be less vulnerable to certain types of attacks, but may also result in reduced performance.
 It's worth noting that this setting can have implications for security, as speculative execution has been exploited in the past to execute unauthorized code. However, modern CPUs have implemented a variety of security features to mitigate these risks.
-
-#Anything written in double parenthesis is the stock explanation of BIOS.
 
 ### Custom Core Pstates
 
