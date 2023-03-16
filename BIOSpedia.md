@@ -57,9 +57,7 @@
 
 # Setup
 ## Memory Testing Software
-You should always test with various stress tests to ensure your overclock is stable.
 ### CPU Common Options
-* I wouldn't recommend the AIDA64 memory test and [Memtest64](https://forums.anandtech.com/threads/techpowerups-memtest-64-is-it-better-than-hci-memtest-for-determining-stability.2532209/) as they are both not very good at finding memory errors.
 ### Recommended
 * [TM5](https://mega.nz/file/vLhxBahB#WwJIpN3mQOaq_XsJUboSIcaMg3RlVBWvFnVspgJpcLY) with any of the configs listed:
   * [Extreme by anta777](TM5-Configs/extreme@anta777.cfg) (recommended). Make sure to load the config. It should say 'Customize: Extreme1 @anta777' if loaded.  
