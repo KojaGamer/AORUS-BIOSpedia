@@ -23,7 +23,7 @@
     - [PC Health](#PC-Health)
     - [Platform Power](#Platform-Power)
     - [Smart Fan 5](#Smart-Fan-5)
- - [System Info](#System-Info)
+  - [System Info](#System-Info)
 - [0](#)
 - [1](#)
 - [2](#)
@@ -59,20 +59,25 @@
 ## Tweaker
 
 ## Settings
-### CPU Common Options
-* #Anything written in double parenthesis is the stock explanation of BIOS.
 
-### DF Common Options
+### Platform Power
 
-### Custom Core Pstates
+### AMD CBS
 
-### NBIO Common Options
+#### XFR Enhancement
+
+#### Custom Core Pstates
+
+#### CPU Common Options
+
+#### DF Common Options
 
 ### UMC Common Options
 
-### XFR Enhancement
+#### NBIO Common Options
 
-## AMD Overclocking
+
+### AMD Overclocking
 
 ### DDR and Infinity Fabric Frequency/Timings
 
@@ -90,12 +95,14 @@
 
 ### Intel® I211 Gigabit Network Connection
 
-## Miscellaneous
+### Miscellaneous
 
 ### Trusted Computing
 
-## PC Health
+### PC Health
 
-## Platform Power
+### Smart Fan 5
 
-## Smart Fan 5
+
+
+
