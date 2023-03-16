@@ -1,7 +1,7 @@
-# BIOS
-- [Tweaker](#Tweaker)
-  - [Advanced CPU Settigns](#Advanced-CPU-Settigns)
-  - [Advanced Memory Settigns](#Advanced-Memory-Settigns)
+# BIOS								- [System Info](#System-Info)
+- [Tweaker](#Tweaker)						- [Boot](#Boot)
+  - [Advanced CPU Settigns](#Advanced-CPU-Settigns)		  - [Secure Boot](#Secure-Boot)
+  - [Advanced Memory Settigns](#Advanced-Memory-Settigns)	
     - [Memory Subtimings](#Memory-Subtimings)
     - [SPD Info](#SPD-Info)
   - [CPU-VRM Settings](#CPU-VRM-Settings)
@@ -57,9 +57,9 @@
   - [PC Health](#PC-Health)
   - [Platform Power](#Platform-Power)
   - [Smart Fan 5](#Smart-Fan-5)
-- [System Info](#System-Info)
-- [Boot](#Boot)
-  - [Secure Boot](#Secure-Boot)
+
+
+
 
 # Tweaker
 
