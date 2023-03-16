@@ -506,72 +506,8 @@ Some terminology:
   * Tighten (lower) timings.
 
 ## Finding a Baseline
-1. * Ensure your sticks are in the recommended DIMM slots (usually 2 and 4).
-   * Make sure your CPU overclock is disabled when tuning RAM, as an unstable CPU can lead to memory errors. Likewise, when pushing high frequency with tight timings, your CPU may become unstable and may need to be re-done.
-   * Make sure your UEFI/BIOS is up to date.
-
-2. On Intel, start with 1.15 V VCCSA and VCCIO.  
-   On AMD, start with 1.10 V SOC, 0.95 V VDDP, 0.95 V VDDG CCD, and 1.05 V VDDG IOD.
-   * SOC voltage might be named differently depending on the manufacturer.
-     * Asrock: CPU VDDCR_SOC Voltage. If you can't find that, you can use SOC Overclock VID hidden in the AMD CBS menu.
-       * [VID values](https://www.reddit.com/r/Amd/comments/842ehb/asrock_ab350_pro4_guide_bios_overclocking_raven/).
-     * Asus: VDDCR SOC.
-     * Gigabyte: (Dynamic<sup>1</sup>) Vcore SOC.
-       * <sup>1</sup>Dynamic Vcore SOC is found on certain Gigabyte motherboards and is an offset voltage. Therefore, the base voltage can change automatically when increasing DRAM frequency. For example, +0.100 V at DDR4-3000 might result in 1.10 V actual, but +0.100V at DDR4-3400 might result in 1.20v actual.
-     * MSI: CPU NB/SOC.
-3. Set DRAM voltage to 1.40 V. If you're using ICs that roll over above 1.35 V, set 1.35 V.
-   * "Roll over" means that the IC becomes more unstable as you increase the voltage, sometimes to the point of not even POSTing.
-   * ICs that are known to roll over above 1.35 V include but are not limited to: 8 Gb Samsung C-die and older Micron/SpecTek ICs (before M8E).
-   * To find what voltage to use for your IC, refer to the [maximum recommended daily voltage section](#maximum-recommended-daily-voltage).
-
-4. Set primary timings to 16-20-20-40 (tCL-tRCD-tRP-tRAS) and tCWL to 16.
-   * Most ICs need loose tRCD and/or tRP, so I recommend 20.
-   * See [this post](https://redd.it/ahs5a2) for more information on these timings.
-5. Increase the DRAM frequency until it doesn't boot into Windows anymore. Keep in mind the expectations detailed above.
-   * If you're on Intel, a quick way of knowing if you're unstable is to examine the RTLs and IOLs. Each group of RTLs and IOLs correspond to a channel. Within each group, 2 values correspond to each DIMM.  
-   Asrock Timing Configurator:
-   
-   ![](Images/intel-rtl-iol-difference-stable.png)
-
-   As I have my sticks installed in channel A slot 2 and channel B slot 2, I need to look at D1 within each group of RTLs and IOLs.  
-   RTLs should be no more than 2 apart, and IOLs should be no more than 1 apart.  
-   In my case, RTLs are 53 and 55, which are exactly 2 apart, and IOLs are both 7.
-   Note that having RTLs and IOLs within those ranges doesn't mean you're stable.
-   * If you're on Ryzen 3000 or 5000, ensure that the Infinity Fabric frequency (FCLK) is set to half your effective DRAM frequency. Confirm this in ZenTimings by ensuring that FCLK matches UCLK and MCLK.
-6. Run a memory tester of your choice.
-   * Windows will use ~2000 MB, so make sure to account for that when entering the amount of RAM to test if the test has manual input. For example, I have 16 GB of RAM and usually test 14000 MB.
-   * Minimum recommended coverage/runtime:
-     * **For AMD, run Prime95 Large FFTs and OCCT VRAM with max utilization simultaneously to stress the FCLK and ensure FCLK stability. This should be run after any frequency/FCLK change.**
-     * MemTestHelper (HCI MemTest): 20 % per thread.
-     * Karhu RAMTest: 5000 %.
-       * In the advanced tab, make sure CPU cache is set to enabled. This will speed up testing by ~20 %.
-       * Testing for 6400 % coverage and a 1 hour duration has an error cover rate of 99,41 % and 98,43 %, respectively ([Source - FAQ section](https://www.karhusoftware.com/ramtest/)).
-     * TM5 anta777 Extreme: 3 cycles.
-       * Runtime varies with density. For 16 GB RAM, it usually takes between 1.5-2 hours. If you run 32 GB RAM, you can set the 12th row of the config (Time (%)) to half, and you'll get roughly the same runtime as 16 GB.
-     * OCCT Memory: 30 minutes each for SSE and AVX.
-     * **You can run more tests like other TM5 configs to ensure stability. It is recommended to run various tests for maximum error coverage.**
-7. If you crash/freeze/BSOD or get an error, drop the DRAM frequency by a notch and test again.
-8. Save your overclock profile in your UEFI.
-9.  From this point on, you can either: try to go for a higher frequency or work on tightening the timings.
-   * Keep in mind the expectations detailed above. If you're at the limit of your ICs and/or IMC, it's best to tighten the timings.
    
 ## Trying Higher Frequencies
-* This section is applicable if you're not at the limit of your motherboard, ICs, and IMC.  
-  This section is not for those having trouble stabilizing frequencies within the expected range.
-     * Note that some boards have auto rules that can stifle your progress, an example being tCWL = tCL - 1, which can lead to uneven values of tCWL. Reading the [Miscellaneous Tips](#miscellaneous-tips) might give you insight into your platform and your motherboard's functionality.
-1. Intel:
-   * Increase VCCSA and VCCIO to 1.25 V. For ADL, VCCIO does not exist. Note that if you have an Alder Lake non-K SKU, VCCSA will be locked and your overclock potential will be limited. 
-   * Set command rate (CR) to 2T if it isn't already.
-   * Set tCCDL to 8. Asus UEFIs don't expose this timing.
-   
-   Ryzen 3000/5000:
-   * Desynchronising MCLK and FCLK can incur a massive latency penalty, so you're better off tightening timings to keep your MCLK:FCLK 1:1. See [AMD - AM4](#amd-imc) for more information.
-   * Otherwise, set FCLK to whatever is stable (1600 MHz if you're unsure).
-2. Loosen primary timings to 18-22-22-42 and set tCWL to 18.
-3. Increase DRAM voltage to 1.45 V if it is safe for your IC. See [Maximum Recommended Daily Voltage](#maximum-recommended-daily-voltage).
-4. Increase SOC to 1.125 V, VDDP to 1.00 V, and VDDG CCD to 1.00 V.
-5. Follow steps 4-7 from [Finding a Baseline](#finding-a-baseline).
-6. Proceed to [Tightening Timings](#tightening-timings).
    
 ## Tightening Timings
     
