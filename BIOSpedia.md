@@ -8,8 +8,16 @@
 - [Settings](#Settings)
   - [AMD CBS](#memory-testing-software)
     - [CPU Common Options](#CPU-Common-Options)
+      - [Performance](#)
+        - [Custom Core Pstates](#)
+      - [Prefetcher settings](#)
+      - [Core Watchdog](#)
     - [Custom Core Pstates](#Custom-Core-Pstates)
     - [DF Common Options](#DF-Common-Options)
+      - [Scrubber](#)
+      - [Memory Adressing](#)
+      - [ACPI](#)
+      - [Link](#)
     - [NBIO Common Options](#NBIO-Common-Options)
     - [UMC Common Options](#UMC-Common-Options)
     - [XFR Enhancement](#XFR-Enhancement)
@@ -29,6 +37,7 @@
   - [Smart Fan 5](#Smart-Fan-5)
 - [System Info](#System-Info)
 - [Boot](#Boot)
+  - [Secure Boot](#Secure-Boot)
 
 # Tweaker
 
@@ -86,3 +95,5 @@
 # System Info
 
 # Boot
+
+## Secure Boot
