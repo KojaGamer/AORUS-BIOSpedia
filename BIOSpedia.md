@@ -1,6 +1,16 @@
 # BIOS
-<td>Hey one </td>
-<td>Hey two </td>
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>- [System Info](#System-Info)
+- [Boot](#Boot)
+  - [Secure Boot](#Secure-Boot) ...</td>
+ </tr>
+</table>
 
 - [Tweaker](#Tweaker)
   - [Advanced CPU Settigns](#Advanced-CPU-Settigns)
