@@ -29,6 +29,7 @@
 # Tweaker
 
 # Settings
+![230316162544](https://user-images.githubusercontent.com/88921486/225726994-e108a5f4-54da-46df-8c87-8a4aca748817.JPG)
 
 ## Platform Power
 
