@@ -1,3 +1,31 @@
+<div class="columns">
+    <div class="column">
+        <ul>
+            <li><a href="#">Link 1</a></li>
+            <li><a href="#">Link 2</a></li>
+            <li><a href="#">Link 3</a></li>
+            <li><a href="#">Link 4</a></li>
+        </ul>
+    </div>
+    <div class="column">
+        <ul>
+            <li><a href="#">Link 5</a></li>
+            <li><a href="#">Link 6</a></li>
+            <li><a href="#">Link 7</a></li>
+            <li><a href="#">Link 8</a></li>
+        </ul>
+    </div>
+</div>
+
+<style>
+    .columns {
+        display: flex;
+    }
+    .column {
+        flex: 1;
+    }
+</style>
+
 # BIOS
 - [Tweaker](#Tweaker)
   - [Advanced CPU Settigns](#Advanced-CPU-Settigns)
