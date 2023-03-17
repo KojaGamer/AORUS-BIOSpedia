@@ -1,43 +1,27 @@
 Test
 
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="width: 30%; padding: 0 10px;">
+    <div style="width: 50%; margin-right: 50px;">
         <ul>
             <li><a href="#section1">Section 1</a></li>
             <li><a href="#section2">Section 2</a></li>
             <li><a href="#section3">Section 3</a></li>
         </ul>
     </div>
-    <div style="width: 70%; padding: 0 10px;">
-        <h2 id="section1">Section 1</h2>
-        <p>This is the content of Section 1.</p>
-        <h2 id="section2">Section 2</h2>
-        <p>This is the content of Section 2.</p>
-        <h2 id="section3">Section 3</h2>
-        <p>This is the content of Section 3.</p>
+    <div style="width: 50%;">
+        <div id="section1">
+            <h2>Section 1</h2>
+            <p>This is the content of Section 1.</p>
+        </div>
+        <div id="section2">
+            <h2>Section 2</h2>
+            <p>This is the content of Section 2.</p>
+        </div>
+        <div id="section3">
+            <h2>Section 3</h2>
+            <p>This is the content of Section 3.</p>
+        </div>
     </div>
 </div>
-
-<ul>
-  <li>
-    <span>Lorem ipsum dolor sit.</span>
-    <ul>
-      <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium, veritatis?</li>
-      <li>Libero porro, ratione error commodi quia blanditiis aspernatur sunt maiores.</li>
-      <li>Asperiores, tenetur fugiat impedit nulla atque, voluptate consectetur error nihil.</li>
-    </ul>
-  </li>
-  <li>Iure rerum nihil animi!</li>
-  <li>Repellendus, excepturi! Id, velit!</li>
-  <li>
-    <span>Porro, libero! Repellendus, cum.</span>
-    <ul>
-      <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>
-      <li>Culpa labore cum, libero explicabo pariatur animi.</li>
-    </ul>
-  </li>
-  <li>Doloribus perferendis incidunt autem!</li>
-</ul>
 
 
 # BIOS
