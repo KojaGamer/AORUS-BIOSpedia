@@ -182,6 +182,21 @@
 - [Boot](#Boot)
   - [Secure Boot](#Secure-Boot)
 
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+.two-columns {
+  width: fit-content;
+  column-count: 2;
+  column-gap: 2rem;
+  column-rule: 1px solid hsl(0 0% 75%);
+}
+
 # Tweaker
 
 ## Advanced CPU Settigns
