@@ -1,7 +1,4 @@
-| -------------------------------------------------| -------- |
-|- [Tweaker](#Tweaker)  | Content  |
-|  - [Advanced CPU Settigns](#Advanced-CPU-Settigns) | Content  |
-
+Test
 
 <ul>
   <li>
