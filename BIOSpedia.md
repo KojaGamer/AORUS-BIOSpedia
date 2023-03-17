@@ -92,15 +92,15 @@
 
 ### Custom Core Pstates
 
-NUMA nodes per socket
+* NUMA nodes per socket
 
-Memory interleaving
+* Memory interleaving
 
-ACS Enable
+* ACS Enable
 
-PCIe ARI Support
+* PCIe ARI Support
 
-PCIe Ten Bit Tag Support
+* PCIe Ten Bit Tag Support
 
 ### CPU Common Options
 
