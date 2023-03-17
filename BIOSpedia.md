@@ -22,7 +22,7 @@
         display: flex;
     }
     .column {
-        flex: 1;
+        column-count: 2;
     }
 </style>
 
