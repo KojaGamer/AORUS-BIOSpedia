@@ -111,9 +111,9 @@
 #### Prefetcher settings
 
 #### Core Watchdog
-____________________________
 
 * Core Watchdog Timer Enable
+____________________________
 
 * Core Performance Boost
 
