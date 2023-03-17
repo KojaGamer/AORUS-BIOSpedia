@@ -111,10 +111,9 @@
 #### Prefetcher settings
 
 #### Core Watchdog
+____________________________
 
 * Core Watchdog Timer Enable
-
-____________________________
 
 * Core Performance Boost
 
@@ -126,7 +125,7 @@ ____________________________
 
 * SEV-ES ASID Space Limit Control
 
-  * 	SEV-ES ASID Space Limit
+  * SEV-ES ASID Space Limit
 
 * Streaming Stores Control
 
