@@ -1,10 +1,12 @@
 # BIOS
-- [Tweaker](#Tweaker)
-  - [Advanced CPU Settigns](#Advanced-CPU-Settigns)
-  - [Advanced Memory Settigns](#Advanced-Memory-Settigns)
-    - [Memory Subtimings](#Memory-Subtimings)
-    - [SPD Info](#SPD-Info)
-  - [CPU-VRM Settings](#CPU-VRM-Settings)
+<ul>
+  <li>- [Tweaker](#Tweaker)  </li>
+    <li>- [Advanced CPU Settigns](#Advanced-CPU-Settigns)  </li>
+    <li>- [Advanced Memory Settigns](#Advanced-Memory-Settigns)  </li>
+      <li>- [Memory Subtimings](#Memory-Subtimings)  </li>
+      <li>- [SPD Info](#SPD-Info)  </li>
+    <li>- [CPU-VRM Settings](#CPU-VRM-Settings)  </li>
+</ul>
 - [Settings](#Settings)
   - [Platform Power](#Platform-Power)
   - [IO Ports](#IO-Ports)
