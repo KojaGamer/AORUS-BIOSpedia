@@ -112,6 +112,10 @@
 
 #### Core Watchdog
 
+* Core Watchdog Timer Enable
+
+
+
 * Core Performance Boost
 
 * Global C-state Control
