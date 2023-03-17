@@ -1,5 +1,6 @@
 Test
 
+<div style="display: flex;">
     <div style="width: 50%; margin-right: 50px;">
         <ul>
             <li><a href="#section1">Section 1</a></li>
