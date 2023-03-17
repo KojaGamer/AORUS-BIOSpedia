@@ -1,5 +1,4 @@
 # BIOS
-<ul> <li>
 - [Tweaker](#Tweaker)
   - [Advanced CPU Settigns](#Advanced-CPU-Settigns)
   - [Advanced Memory Settigns](#Advanced-Memory-Settigns)
@@ -61,6 +60,8 @@
 - [System Info](#System-Info)
 - [Boot](#Boot)
   - [Secure Boot](#Secure-Boot)
+
+<ul> <li>
 
 # Tweaker
 
