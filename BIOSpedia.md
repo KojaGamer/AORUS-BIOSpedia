@@ -1,3 +1,124 @@
+<ul dir="auto" class="two-columns">
+  <li><a href="#Tweaker">Tweaker</a>
+    <ul dir="auto">
+      <li><a href="#Advanced-CPU-Settigns">Advanced CPU Settigns</a></li>
+      <li><a href="#Advanced-Memory-Settigns">Advanced Memory Settigns</a>
+        <ul dir="auto">
+          <li><a href="#Memory-Subtimings">Memory Subtimings</a></li>
+          <li><a href="#SPD-Info">SPD Info</a></li>
+        </ul>
+      </li>
+      <li><a href="#CPU-VRM-Settings">CPU-VRM Settings</a></li>
+    </ul>
+  </li>
+  <li><a href="#Settings">Settings</a>
+    <ul dir="auto">
+      <li><a href="#Platform-Power">Platform Power</a></li>
+      <li><a href="#IO-Ports">IO Ports</a>
+        <ul dir="auto">
+          <li><a href="#Intel%C2%AE-I211-Gigabit-Network-Connection">Intel® I211 Gigabit Network Connection</a>
+            <ul dir="auto">
+              <li><a href="#NIC-Configuration">NIC Configuration</a></li>
+            </ul>
+          </li>
+          <li><a href="#Network-Stack-Configuration">Network Stack Configuration</a></li>
+          <li><a href="#NVMe-Configuration">NVMe Configuration</a>
+            <ul dir="auto">
+              <li><a href="#">Samsung SSD 970 EVO Plus 250GB</a></li>
+            </ul>
+          </li>
+          <li><a href="#SATA-Configuration">SATA Configuration</a></li>
+          <li><a href="#USB-Configuration">USB Configuration</a></li>
+        </ul>
+      </li>
+      <li><a href="#Miscellaneous">Miscellaneous</a>
+        <ul dir="auto">
+          <li><a href="#Trusted-Computing">Trusted Computing</a></li>
+        </ul>
+      </li>
+      <li><a href="#memory-testing-software">AMD CBS</a>
+        <ul dir="auto">
+          <li><a href="#CPU-Common-Options">CPU Common Options</a>
+            <ul dir="auto">
+              <li><a href="#Performance">Performance</a>
+                <ul dir="auto">
+                  <li><a href="#Custom-Core-Pstates">Custom Core Pstates</a></li>
+                </ul>
+              </li>
+              <li><a href="#Prefetcher-settings">Prefetcher settings</a></li>
+              <li><a href="#Core-Watchdog">Core Watchdog</a></li>
+            </ul>
+          </li>
+          <li><a href="#Custom-Core-Pstates">Custom Core Pstates</a></li>
+          <li><a href="#DF-Common-Options">DF Common Options</a>
+            <ul dir="auto">
+              <li><a href="#Scrubber">Scrubber</a></li>
+              <li><a href="#Memory-Adressing">Memory Adressing</a></li>
+              <li><a href="#ACPI">ACPI</a></li>
+              <li><a href="#Link">Link</a></li>
+            </ul>
+          </li>
+          <li><a href="#NBIO-Common-Options">NBIO Common Options</a>
+            <ul dir="auto">
+              <li><a href="#XFR-Enhancement">XFR Enhancement</a></li>
+              <li><a href="#SMU-Common-Options">SMU Common Options</a>
+                <ul dir="auto">
+                  <li><a href="#Fan-Control">Fan Control</a></li>
+                  <li><a href="#NBIO-LCLK-DPM">NBIO LCLK DPM</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li><a href="#UMC-Common-Options">UMC Common Options</a>
+            <ul dir="auto">
+              <li><a href="#DDR4-Common-Options">DDR4 Common Options</a>
+                <ul dir="auto">
+                  <li><a href="#DRAM-Timing-Configuration">DRAM Timing Configuration</a></li>
+                  <li><a href="#DRAM-Controller-Configuration">DRAM Controller Configuration</a></li>
+                  <li><a href="#CAD-Bus-Configuration">CAD Bus Configuration</a></li>
+                  <li><a href="#Data-Bus-Configuration">Data Bus Configuration</a></li>
+                  <li><a href="#Common-RAS">Common RAS</a></li>
+                  <li><a href="#Security">Security</a></li>
+                  <li><a href="#Phy-Configuration">Phy Configuration</a></li>
+                </ul>
+              </li>
+              <li><a href="#DRAM-Memory-Mapping">DRAM Memory Mapping</a></li>
+              <li><a href="#Memory-MBIST">Memory MBIST</a>
+                <ul dir="auto">
+                  <li><a href="#Data-Eye">Data Eye</a></li>
+                </ul>
+              </li>
+              <li><a href="#NVDIMM">NVDIMM</a></li>
+            </ul>
+          </li>
+          <li><a href="#XFR-Enhancement">XFR Enhancement</a></li>
+        </ul>
+      </li>
+      <li><a href="#AMD-Overclocking">AMD Overclocking</a>
+        <ul dir="auto">
+          <li><a href="#DDR-and-Infinity-Fabric-Frequency/Timings">DDR and Infinity Fabric Frequency/Timings</a>
+            <ul dir="auto">
+              <li><a href="#DRAM-Timing-Configuration">DRAM Timing Configuration</a></li>
+              <li><a href="#DRAM-Controller-Configuration">DRAM Controller Configuration</a></li>
+              <li><a href="#CAD-Bus-Configuration">CAD Bus Configuration</a></li>
+              <li><a href="#Data-Bus-Configuration">Data Bus Configuration</a></li>
+            </ul>
+          </li>
+          <li><a href="/KojaGamer/AORUS-BIOSpedia/blob/main/Manual-CPU-Overclocking">Manual CPU Overclocking</a></li>
+        </ul>
+      </li>
+      <li><a href="#PC-Health">PC Health</a></li>
+      <li><a href="#Smart-Fan-5">Smart Fan 5</a></li>
+    </ul>
+  </li>
+  <li><a href="#System-Info">System Info</a></li>
+  <li><a href="#Boot">Boot</a>
+    <ul dir="auto">
+      <li><a href="#Secure-Boot">Secure Boot</a></li>
+    </ul>
+  </li>
+</ul>
+
 # BIOS
 - [Tweaker](#Tweaker)
   - [Advanced CPU Settigns](#Advanced-CPU-Settigns)
