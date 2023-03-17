@@ -1,4 +1,9 @@
 # BIOS
+
+.columns {
+  column-count: 2;
+  }
+
 - [Tweaker](#Tweaker)
   - [Advanced CPU Settigns](#Advanced-CPU-Settigns)
   - [Advanced Memory Settigns](#Advanced-Memory-Settigns)
