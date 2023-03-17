@@ -1,12 +1,3 @@
-<style>
-    .columns {
-        display: flex;
-    }
-    .column {
-        flex: 1;
-    }
-</style>
-
 # BIOS
 - [Tweaker](#Tweaker)
   - [Advanced CPU Settigns](#Advanced-CPU-Settigns)
