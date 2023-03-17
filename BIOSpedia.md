@@ -92,6 +92,8 @@
 
 ### Custom Core Pstates
 
+_______________________
+
 * NUMA nodes per socket
 
 * Memory interleaving
