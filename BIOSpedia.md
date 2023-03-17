@@ -7,6 +7,7 @@
       <li>- [SPD Info](#SPD-Info)  </li>
     <li>- [CPU-VRM Settings](#CPU-VRM-Settings)  </li>
 </ul>
+<ul>
 - [Settings](#Settings)
   - [Platform Power](#Platform-Power)
   - [IO Ports](#IO-Ports)
@@ -62,6 +63,7 @@
 - [System Info](#System-Info)
 - [Boot](#Boot)
   - [Secure Boot](#Secure-Boot)
+  </ul>
 
 # Tweaker
 
