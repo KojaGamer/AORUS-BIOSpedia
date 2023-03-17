@@ -92,13 +92,6 @@
 
 ### Custom Core Pstates
 
-* Custom Pstate0
-
-* Pstate0 Freq (MHz)
-
-* Pstate0 VID
-_______________________
-
 * NUMA nodes per socket
 
 * Memory interleaving
@@ -111,29 +104,6 @@ _______________________
 
 ### CPU Common Options
 
-* Core Performance Boost
-
-* Global C-state Control
-
-* Power Supply Idle Control
-
-* SEV ASID Count
-
-* SEV-ES ASID Space Limit Control
-
-  * SEV-ES ASID Space Limit
-
-* Streaming Stores Control
-
-* Local APIC Mode
-
-* ACPI_CST C1 Declaration
-
-* MCA error thresh enable
-
-* PPIN Opt-in
-_______________________
-
 #### Performance
 
 ##### Custom Core Pstates
@@ -143,7 +113,8 @@ _______________________
 #### Core Watchdog
 
 * Core Watchdog Timer Enable
-_______________________
+
+____________________________
 
 * Core Performance Boost
 
