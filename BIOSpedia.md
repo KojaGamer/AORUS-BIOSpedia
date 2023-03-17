@@ -1,3 +1,9 @@
+| Column 1 | Column 2 |
+| -------- | -------- |
+| Content  | Content  |
+| Content  | Content  |
+
+
 # BIOS
 - [Tweaker](#Tweaker)
   - [Advanced CPU Settigns](#Advanced-CPU-Settigns)
