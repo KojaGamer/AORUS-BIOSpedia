@@ -1,6 +1,6 @@
 # BIOS
 
-.columns {
+.intro {
   column-count: 2;
   }
 
