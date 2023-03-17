@@ -1,4 +1,3 @@
-| Column 1 | Column 2 |
 | -------------------------------------------------| -------- |
 |- [Tweaker](#Tweaker)  | Content  |
 |  - [Advanced CPU Settigns](#Advanced-CPU-Settigns) | Content  |
