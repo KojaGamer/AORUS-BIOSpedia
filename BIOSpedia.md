@@ -1,5 +1,3 @@
-columns: 2 auto;
-
 # BIOS
 - [Tweaker](#Tweaker)
   - [Advanced CPU Settigns](#Advanced-CPU-Settigns)
