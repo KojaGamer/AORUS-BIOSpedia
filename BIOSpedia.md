@@ -65,9 +65,43 @@
 
 ## Advanced CPU Settigns
 
+* Core Performance Boost
+
+* SVM
+
+* AMD Cool&Quiet fuction
+
+* Global C-satae Control
+
+* Power Supply Idle Control
+
+* CCD Control
+
+* Downcore Control
+
+* SMT Mode
+
+* CPPC
+
+* CPPC Preferred Cores
+
 ## Advanced Memory Settigns
 
+### Memory Subtimings
+
+### SPD Info
+
 ## CPU-VRM Settings
+
+* CPU Vcore Loadline Calibration
+
+* Vcore SOC Loadline Calibration
+
+* CPU Vcore Protection
+
+* CPU Vcore Current Protection
+
+* PWM Phase Control
 
 # Settings
 ![230316162544](https://user-images.githubusercontent.com/88921486/225726994-e108a5f4-54da-46df-8c87-8a4aca748817.JPG)
