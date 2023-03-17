@@ -1,5 +1,4 @@
 # BIOS
-<ul>
 - [Tweaker](#Tweaker)
   - [Advanced CPU Settigns](#Advanced-CPU-Settigns)
   - [Advanced Memory Settigns](#Advanced-Memory-Settigns)
@@ -30,7 +29,6 @@
       - [Memory Adressing](#Memory-Adressing)
       - [ACPI](#ACPI)
       - [Link](#Link)
-<li>
     - [NBIO Common Options](#NBIO-Common-Options)
       - [XFR Enhancement](#XFR-Enhancement)
       - [SMU Common Options](#SMU-Common-Options)
