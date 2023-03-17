@@ -1,7 +1,7 @@
 | Column 1 | Column 2 |
-| -------- | -------- |
-| Content  | Content  |
-| Content  | Content  |
+| -------------------------------------------------| -------- |
+|- [Tweaker](#Tweaker)  | Content  |
+|- [Advanced CPU Settigns](#Advanced-CPU-Settigns) | Content  |
 
 
 # BIOS
