@@ -97,7 +97,6 @@
 * Pstate0 Freq (MHz)
 
 * Pstate0 VID
-
 _______________________
 
 * NUMA nodes per socket
@@ -121,7 +120,6 @@ _______________________
 #### Core Watchdog
 
 * Core Watchdog Timer Enable
-
 ____________________________
 
 * Core Performance Boost
