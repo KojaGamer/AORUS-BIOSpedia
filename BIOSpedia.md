@@ -1,29 +1,22 @@
 Test
 
-- Parent 1
-  <table>
-  <tr><td>Column 1</td><td>Column 2</td></tr>
-  <tr><td>Content</td><td>Content</td></tr>
-  <tr><td>Content</td><td>Content</td></tr>
-  </table>
-  - Child 1
-    <table>
-    <tr><td>Column 1</td><td>Column 2</td></tr>
-    <tr><td>Content</td><td>Content</td></tr>
-    <tr><td>Content</td><td>Content</td></tr>
-    </table>
-  - Child 2
-    <table>
-    <tr><td>Column 1</td><td>Column 2</td></tr>
-    <tr><td>Content</td><td>Content</td></tr>
-    <tr><td>Content</td><td>Content</td></tr>
-    </table>
-- Parent 2
-  <table>
-  <tr><td>Column 1</td><td>Column 2</td></tr>
-  <tr><td>Content</td><td>Content</td></tr>
-  <tr><td>Content</td><td>Content</td></tr>
-  </table>
+<div style="display: flex; flex-wrap: wrap;">
+    <div style="width: 30%; padding: 0 10px;">
+        <ul>
+            <li><a href="#section1">Section 1</a></li>
+            <li><a href="#section2">Section 2</a></li>
+            <li><a href="#section3">Section 3</a></li>
+        </ul>
+    </div>
+    <div style="width: 70%; padding: 0 10px;">
+        <h2 id="section1">Section 1</h2>
+        <p>This is the content of Section 1.</p>
+        <h2 id="section2">Section 2</h2>
+        <p>This is the content of Section 2.</p>
+        <h2 id="section3">Section 3</h2>
+        <p>This is the content of Section 3.</p>
+    </div>
+</div>
 
 <ul>
   <li>
