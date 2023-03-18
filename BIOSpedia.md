@@ -32,8 +32,7 @@ Test
 
 ## Advanced CPU Settigns
 
-<details>
-  <summary>Click</summary>
+
   
 * Core Performance Boost
 
@@ -54,17 +53,6 @@ Test
 * CPPC
 
 * CPPC Preferred Cores
-</details>
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -171,8 +159,10 @@ Test
 
 * Max CPU Boost Clock Override
 
-________________________
 ## Advanced CPU Settigns
+
+<details>
+  <summary>Click</summary>
 
 * Core Performance Boost
 
@@ -193,7 +183,7 @@ ________________________
 * CPPC
 
 * CPPC Preferred Cores
-________________________
+</details>
 
 * Extreme Memory Profile(X.M.P.)
 
