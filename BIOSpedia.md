@@ -151,6 +151,7 @@ Test
 * CPPC
 
 * CPPC Preferred Cores
+___________________
 </details>
 
 * Extreme Memory Profile(X.M.P.)
@@ -171,6 +172,7 @@ Test
 ### SPD Info
 
 * Power Down Enable
+___________________
 </details>
 
 * CPU Vcore
