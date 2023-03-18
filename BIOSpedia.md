@@ -32,7 +32,11 @@ Test 1
 
 
 
-
+# Example
+<details>
+  <summary><a href="#Tweaker">Example</a></summary>
+  <p id="Tweaker">content</p>
+</details>
 
 
 
