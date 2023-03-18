@@ -29,20 +29,6 @@ Test 1
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <details>
   <summary><a href="#Tweaker">Tweaker</a></summary>
   <p id="Tweaker">
@@ -382,36 +368,3 @@ ___
 # Boot
 
 ## Secure Boot
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<details><summary id="exampleAB"><h1>Example</h1></summary>
-  content
-</details>
