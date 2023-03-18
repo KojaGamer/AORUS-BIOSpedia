@@ -21,7 +21,6 @@ Test 1
 
 
 
-[linked text](#exampleAB)
 
 
 
