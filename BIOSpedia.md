@@ -161,7 +161,7 @@ Test
 * Max CPU Boost Clock Override
 
 ________________________
-## Advanced CPU Settigns ________________________
+## Advanced CPU Settigns
 
 * Core Performance Boost
 
