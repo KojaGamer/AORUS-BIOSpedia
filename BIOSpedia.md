@@ -20,15 +20,6 @@ Test 1
 
 
 
-
-
-
-
-
-
-
-
-
 <details>
   <summary><a href="#Tweaker">Tweaker</a></summary>
   <p id="Tweaker">
