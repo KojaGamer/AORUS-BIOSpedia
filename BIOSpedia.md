@@ -5,7 +5,16 @@ Test 1
 
 
 
+<details>
+  <summary id="exampleABC"><h1>Example</h1></summary>
+  content
+</details>
 
+<style>
+details summary h1 {
+  display: inline;
+}
+</style>
 
 
 
@@ -368,11 +377,6 @@ ___
 # Boot
 
 ## Secure Boot
-
-
-
-
-
 
 
 
