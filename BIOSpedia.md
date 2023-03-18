@@ -16,30 +16,6 @@ Test 1
 
 
 
-<details><summary id="Advanced Memory Settigns"><h2>Advanced Memory Settigns</h2></summary> ### Memory Subtimings ### SPD Info * Power Down Enable</details> ___
-
-
-
-
-
-
-
-
-
-
-## Advanced Memory Settigns<details><summary>Click</summary> ### Memory Subtimings ### SPD Info * Power Down Enable</details> ___
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
