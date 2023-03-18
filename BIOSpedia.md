@@ -1,10 +1,10 @@
 Test
 
 <details>
-  <summary>Advanced CPU Settignse</summary>
+  <summary>Advanced CPU Settings</summary>
   
 ## Advanced CPU Settigns
-
+  
 * Core Performance Boost
 
 * SVM
@@ -24,16 +24,7 @@ Test
 * CPPC
 
 * CPPC Preferred Cores
-  
 </details>
-
-
-
-
-
-
-
-
 
 
 
