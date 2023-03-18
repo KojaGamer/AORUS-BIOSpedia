@@ -169,7 +169,7 @@ ________________________
 
 * AMD Cool&Quiet fuction
 
-* Global C-satae Control
+* Global C-state Control
 
 * Power Supply Idle Control
 
