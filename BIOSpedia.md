@@ -1,7 +1,7 @@
 Test
 
 <details>
-  <summary>Click</summary>
+  <summary>Advanced CPU Settings (click)</summary>
   
 ## Advanced CPU Settigns
   
@@ -33,7 +33,7 @@ Test
 ## Advanced CPU Settigns
 
 <details>
-  <summary>Advanced CPU Settings (click)</summary>
+  <summary>Click</summary>
   
 * Core Performance Boost
 
