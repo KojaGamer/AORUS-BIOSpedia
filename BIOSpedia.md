@@ -1,147 +1,14 @@
 Test 1
 
-To link to the example summary, use the following syntax: [link text](#example)
+To link to the example summary, use the following syntax: [link text](#example123)
 
-1
-1
 
 
-1
 
-1
-1
-1
-1
 
 
 
 
-
-
-
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<details>
-  <summary id="example">Example</summary>
-  
-  This is the content that will be hidden/shown when the user clicks on the summary element.
-</details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- [Advanced CPU Settigns](#Advanced-CPU-Settigns)
-
-<details><summary>Advanced CPU Settings</summary>
-
-* Core Performance Boost
-
-* SVM
-
-* AMD Cool&Quiet fuction
-
-* Global C-state Control
-
-* Power Supply Idle Control
-
-* CCD Control
-
-* Downcore Control
-
-* SMT Mode
-
-* CPPC
-
-* CPPC Preferred Cores</details>
-
-___
 
 
 
@@ -484,3 +351,61 @@ ___
 # Boot
 
 ## Secure Boot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<details>
+  <summary id="example123">Example</summary>
+  
+  This is the content that will be hidden/shown when the user clicks on the summary element.
+</details>
