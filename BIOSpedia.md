@@ -182,9 +182,9 @@ ___
 
 
 <details><summary id="Advanced Memory Settigns"><h2>Advanced Memory Settigns</h2></summary>
-<h3>Memory Subtimings</h3>
+### Memory Subtimings
   
-<h3>SPD Info</h3>
+### SPD Info
 
 * Power Down Enable
 </details>
