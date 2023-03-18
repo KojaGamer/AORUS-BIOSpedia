@@ -216,7 +216,7 @@ ___
 #### Core Watchdog
 
 * Core Watchdog Timer Enable
-______________
+___
 
 * Core Performance Boost
 
