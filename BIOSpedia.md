@@ -20,13 +20,6 @@ Test 1
 
 
 
-
-
-
-
-
-
-
 # BIOS
 - [Tweaker](#Tweaker)
   - [Advanced CPU Settigns](#Advanced-CPU-Settigns)
@@ -350,24 +343,6 @@ ___
 # Boot
 
 ## Secure Boot
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
