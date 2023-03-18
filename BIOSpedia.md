@@ -112,7 +112,7 @@
 
 * CPPC Preferred Cores</details>
 
-______________
+_
 * Extreme Memory Profile(X.M.P.)
 
 * XMP High Frequency Support
