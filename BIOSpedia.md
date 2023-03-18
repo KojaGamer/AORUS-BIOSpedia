@@ -1,14 +1,8 @@
 Test 1
-
-
-
-
-
-
 # Example
 <details>
-  <summary><a href="#exampleABC">Example</a></summary>
-  <p id="exampleABC">content</p>
+  <summary><a href="#exampleAB">Example</a></summary>
+  <p id="exampleAB">content</p>
 </details>
 
 
@@ -27,7 +21,7 @@ Test 1
 
 
 
-[linked text](#exampleABC)
+[linked text](#exampleAB)
 
 
 
@@ -401,6 +395,6 @@ ___
 
 
 
-<details><summary id="exampleABC"><h1>Example</h1></summary>
+<details><summary id="exampleAB"><h1>Example</h1></summary>
   content
 </details>
