@@ -3,22 +3,6 @@ Test
 <details>
   <summary>Advanced CPU Settignse</summary>
   
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Code
-  ```
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
-
-
-
 ## Advanced CPU Settigns
 
 * Core Performance Boost
@@ -40,6 +24,12 @@ Test
 * CPPC
 
 * CPPC Preferred Cores
+  
+</details>
+
+
+
+
 
 
 
