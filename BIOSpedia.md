@@ -162,7 +162,7 @@ Test 1
 
 * CPPC Preferred Cores</details>
 
-__
+==
 * Extreme Memory Profile(X.M.P.)
 
 * XMP High Frequency Support
@@ -181,7 +181,7 @@ __
 
 * Power Down Enable</details>
 
-__
+==
 * CPU Vcore
 
 * Dynamic Vcore(DVID)
@@ -265,7 +265,7 @@ __
 #### Core Watchdog
 
 * Core Watchdog Timer Enable
-__
+==
 
 * Core Performance Boost
 
