@@ -1,7 +1,6 @@
 Test
 
-<details>
-  <summary>Advanced CPU Settings (click)</summary>
+<details><summary>Advanced CPU Settings (click)</summary>
   
 ## Advanced CPU Settigns
   
@@ -25,34 +24,6 @@ Test
 
 * CPPC Preferred Cores
 </details>
-
-
-
-
-
-## Advanced CPU Settigns
-
-
-  
-* Core Performance Boost
-
-* SVM
-
-* AMD Cool&Quiet fuction
-
-* Global C-state Control
-
-* Power Supply Idle Control
-
-* CCD Control
-
-* Downcore Control
-
-* SMT Mode
-
-* CPPC
-
-* CPPC Preferred Cores
 
 
 
