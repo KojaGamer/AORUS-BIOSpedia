@@ -401,7 +401,6 @@ ___
 
 
 
-<details>
-  <summary id="exampleABC"><h1>Example</h1></summary>
+<details><summary id="exampleABC"><h1>Example</h1></summary>
   content
 </details>
