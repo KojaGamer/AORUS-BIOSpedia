@@ -128,7 +128,6 @@ ______________
 <details><summary>Click</summary>
 
 ### Memory Subtimings
-
 ### SPD Info
 
 * Power Down Enable
