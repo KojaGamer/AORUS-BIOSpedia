@@ -133,6 +133,8 @@ ___
 
 * Power Down Enable</details>
 
+===
+
 ___
 * CPU Vcore
 
