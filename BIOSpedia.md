@@ -1,6 +1,5 @@
 Test 1
-
-To link to the example summary, use the following syntax: [link text](#example123)
+[linked text](#example123)
 
 
 
