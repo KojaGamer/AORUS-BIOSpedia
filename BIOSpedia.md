@@ -162,8 +162,8 @@ Test
 ## Advanced CPU Settigns
 
 <details>
-  <summary>Click</summary>
-
+<summary>Click</summary>
+  
 * Core Performance Boost
 
 * SVM
