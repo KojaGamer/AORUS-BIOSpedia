@@ -212,11 +212,6 @@ ___
 
 * UCLK DIV1 MODE
 
-
-
-
-
-
 <details><summary id="Advanced Memory Settigns"><h2>Advanced Memory Settigns</h2></summary>
 
 ### Memory Subtimings
@@ -224,27 +219,6 @@ ___
 ### SPD Info
 
 * Power Down Enable</details>
-
-___
-
-
-
-
-
-
-
-
-
-
-## Advanced Memory Settigns
-<details><summary>Click</summary>
-
-### Memory Subtimings
-
-### SPD Info
-
-* Power Down Enable
-</details>
 
 ___
 * CPU Vcore
