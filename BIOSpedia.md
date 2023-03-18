@@ -163,15 +163,15 @@ Test
 
 * UCLK DIV1 MODE
 
-______________________
 ## Advanced Memory Settigns
+<details><summary>Click</summary>
 
 ### Memory Subtimings
 
 ### SPD Info
 
 * Power Down Enable
-______________________
+</details>
 
 * CPU Vcore
 
