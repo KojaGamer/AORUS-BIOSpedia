@@ -1,4 +1,62 @@
 Test 1
+
+<div class="column-list">
+  <ul>
+    <li><a href="#example1">Example 1</a></li>
+    <li><a href="#example2">Example 2</a></li>
+    <li><a href="#example3">Example 3</a></li>
+    <li><a href="#example4">Example 4</a></li>
+    <li><a href="#example5">Example 5</a></li>
+    <li><a href="#example6">Example 6</a></li>
+  </ul>
+  <ul>
+    <li><a href="#example7">Example 7</a></li>
+    <li><a href="#example8">Example 8</a></li>
+    <li><a href="#example9">Example 9</a></li>
+    <li><a href="#example10">Example 10</a></li>
+    <li><a href="#example11">Example 11</a></li>
+    <li><a href="#example12">Example 12</a></li>
+  </ul>
+</div>
+
+<style>
+.column-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+ul {
+  flex: 1 0 50%;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [linked text](#exampleABC)
 
 
@@ -380,13 +438,6 @@ ___
 
 <details>
   <summary id="exampleABC">**Example**</summary>
-  
-  This is the content that will be hidden/shown when the user clicks on the summary element.
-</details>
-
-
-<details>
-  <summary>**Example**</summary>
   
   This is the content that will be hidden/shown when the user clicks on the summary element.
 </details>
