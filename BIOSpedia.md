@@ -1,7 +1,7 @@
 Test
 
 <details>
-  <summary>## Advanced CPU Settignse</summary>
+  <summary>Advanced CPU Settignse</summary>
   
   ### Heading
   1. Foo
