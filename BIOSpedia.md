@@ -17,7 +17,12 @@ Test
   ```
 </details>
 
-
+### Some Code
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
 
 
 
@@ -162,7 +167,7 @@ Test
 
 * Max CPU Boost Clock Override
 
-'''js
+```js
 ## Advanced CPU Settigns
 
 * Core Performance Boost
@@ -184,7 +189,7 @@ Test
 * CPPC
 
 * CPPC Preferred Cores
-'''
+```
 
 * Extreme Memory Profile(X.M.P.)
 
