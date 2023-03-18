@@ -154,8 +154,7 @@ Test 1
 
 * Max CPU Boost Clock Override
 
-## Advanced CPU Settings
-<details><summary>Click</summary> 
+<details><summary id="Advanced CPU Settings"><h2>Advanced CPU Settings</h2></summary>
 
 * Core Performance Boost
 
