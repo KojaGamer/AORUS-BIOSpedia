@@ -182,8 +182,9 @@ ___
 
 
 <details><summary id="Advanced Memory Settigns"><h2>Advanced Memory Settigns</h2></summary>
+
 ### Memory Subtimings
-  
+
 ### SPD Info
 
 * Power Down Enable
@@ -203,7 +204,7 @@ ___
 <details><summary>Click</summary>
 
 ### Memory Subtimings
-  
+
 ### SPD Info
 
 * Power Down Enable
