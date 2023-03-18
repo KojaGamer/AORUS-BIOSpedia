@@ -383,3 +383,10 @@ ___
   
   This is the content that will be hidden/shown when the user clicks on the summary element.
 </details>
+
+
+<details>
+  <summary>**Example**</summary>
+  
+  This is the content that will be hidden/shown when the user clicks on the summary element.
+</details>
