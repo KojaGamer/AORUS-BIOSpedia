@@ -1,7 +1,7 @@
 Test
 
 <details>
-  <summary>Click me</summary>
+  <summary>## Advanced CPU Settignse</summary>
   
   ### Heading
   1. Foo
@@ -16,6 +16,54 @@ Test
   }
   ```
 </details>
+
+
+
+
+
+## Advanced CPU Settigns
+
+* Core Performance Boost
+
+* SVM
+
+* AMD Cool&Quiet fuction
+
+* Global C-satae Control
+
+* Power Supply Idle Control
+
+* CCD Control
+
+* Downcore Control
+
+* SMT Mode
+
+* CPPC
+
+* CPPC Preferred Cores
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
