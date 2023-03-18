@@ -223,8 +223,7 @@ ___
 
 ### SPD Info
 
-* Power Down Enable
-</details>
+* Power Down Enable</details>
 
 ___
 
