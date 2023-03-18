@@ -89,6 +89,7 @@
 
 * Max CPU Boost Clock Override
 
+______________________
 ## Advanced CPU Settigns
 
 * Core Performance Boost
@@ -122,6 +123,7 @@ ______________________
 
 * UCLK DIV1 MODE
 
+______________________
 ## Advanced Memory Settigns
 
 ### Memory Subtimings
