@@ -1,3 +1,48 @@
+Test 1
+
+## Advanced CPU Settings
+<details><summary>Click</summary> 
+
+* Core Performance Boost
+
+* SVM
+
+* AMD Cool&Quiet fuction
+
+* Global C-state Control
+
+* Power Supply Idle Control
+
+* CCD Control
+
+* Downcore Control
+
+* SMT Mode
+
+* CPPC
+
+* CPPC Preferred Cores</details>
+
+___
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # BIOS
 - [Tweaker](#Tweaker)
   - [Advanced CPU Settigns](#Advanced-CPU-Settigns)
