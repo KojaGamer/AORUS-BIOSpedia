@@ -2,6 +2,7 @@ Test
 
 <details>
   <summary>Advanced CPU Settings (click)</summary>
+  
 ## Advanced CPU Settigns
   
 * Core Performance Boost
