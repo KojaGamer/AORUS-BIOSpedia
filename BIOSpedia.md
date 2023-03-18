@@ -1,5 +1,5 @@
 Test 1
-[linked text](#example123)
+[linked text](#exampleABC)
 
 
 
@@ -404,7 +404,7 @@ ___
 
 
 <details>
-  <summary id="example123">Example</summary>
+  <summary id="exampleABC">Example</summary>
   
   This is the content that will be hidden/shown when the user clicks on the summary element.
 </details>
