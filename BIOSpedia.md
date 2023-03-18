@@ -1,7 +1,7 @@
 Test 1
 - [Advanced CPU Settigns](#Advanced-CPU-Settigns)
 
-<details><summary>Advanced CPU Settings</summary> 
+<details>
 
 * Core Performance Boost
 
