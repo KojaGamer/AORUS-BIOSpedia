@@ -89,9 +89,7 @@
 
 * Max CPU Boost Clock Override
 
-## Advanced CPU Settigns<details><summary>Click</summary>
-  
-* Core Performance Boost
+## Advanced CPU Settigns<details><summary>Click</summary>* Core Performance Boost
 
 * SVM
 
