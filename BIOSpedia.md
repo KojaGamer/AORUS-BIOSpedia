@@ -10,19 +10,12 @@ Test
      * Qux
 
   ### Some Code
-  ```js
+  ```
   function logSomething(something) {
     console.log('Something', something);
   }
   ```
 </details>
-
-### Some Code
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
 
 
 
