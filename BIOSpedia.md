@@ -1,7 +1,6 @@
 Test
 
-<details>
-  <summary>Advanced CPU Settings (click)</summary>
+<details><summary>Advanced CPU Settings (click)</summary>
   
 ## Advanced CPU Settigns
   
