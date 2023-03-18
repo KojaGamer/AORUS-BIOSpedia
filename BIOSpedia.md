@@ -33,7 +33,10 @@ Test 1
 
 <details>
   <summary><a href="#Tweaker">Tweaker</a></summary>
-  <p id="Tweaker">content</p>
+  <p id="Tweaker">  - [Advanced CPU Settigns](#Advanced-CPU-Settigns)
+  - [Advanced Memory Settigns](#Advanced-Memory-Settigns)
+    - [Memory Subtimings](#Memory-Subtimings)
+    - [SPD Info](#SPD-Info)</p>
 </details>
 
 
