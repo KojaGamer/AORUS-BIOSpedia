@@ -404,7 +404,7 @@ ___
 
 
 <details>
-  <summary id="exampleABC"> # Example</summary>
+  <summary id="exampleABC"> **Example** </summary>
   
   This is the content that will be hidden/shown when the user clicks on the summary element.
 </details>
