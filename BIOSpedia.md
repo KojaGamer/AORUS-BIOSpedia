@@ -181,7 +181,7 @@ ___
 
 
 
-<details><summary id="Advanced Memory Settigns"><h1>Advanced Memory Settigns</h1></summary>
+<details><summary id="Advanced Memory Settigns"><h2>Advanced Memory Settigns</h2></summary>
 <h3>Memory Subtimings</h3>
   
 <h3>SPD Info</h3>
