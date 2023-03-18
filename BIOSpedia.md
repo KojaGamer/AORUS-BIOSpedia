@@ -38,11 +38,14 @@
       - [DDR4 Common Options](#DDR4-Common-Options)
         - [DRAM Timing Configuration](#DRAM-Timing-Configuration)
         - [DRAM Controller Configuration](#DRAM-Controller-Configuration)
+          - [DRAM Power Options](#DRAM-Power-Options) 
         - [CAD Bus Configuration](#CAD-Bus-Configuration)
         - [Data Bus Configuration](#Data-Bus-Configuration)
         - [Common RAS](#Common-RAS)
+          - [ECC Configuration](#ECC-Configuration)
         - [Security](#Security)
         - [Phy Configuration](#Phy-Configuration)
+          - [PMU Training](#PMU-Training)
       - [DRAM Memory Mapping](#DRAM-Memory-Mapping)
       - [Memory MBIST](#Memory-MBIST)
         - [Data Eye](#Data-Eye)
@@ -258,15 +261,21 @@ ___
 
 ##### DRAM Controller Configuration
 
+###### DRAM Power Options
+
 ##### CAD Bus Configuration
 
 ##### Data Bus Configuration
 
 ##### Common RAS
 
+###### ECC Configuration
+
 ##### Security
 
 ##### Phy Configuration
+
+###### PMU Training
 
 #### DRAM Memory Mapping
 
