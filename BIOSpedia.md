@@ -112,7 +112,7 @@
 
 * CPPC Preferred Cores</details>
 
-_
+___________
 * Extreme Memory Profile(X.M.P.)
 
 * XMP High Frequency Support
@@ -131,7 +131,7 @@ _
 
 * Power Down Enable</details>
 
-______________
+___________
 * CPU Vcore
 
 * Dynamic Vcore(DVID)
