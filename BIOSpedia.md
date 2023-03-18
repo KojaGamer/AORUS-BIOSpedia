@@ -405,6 +405,5 @@ ___
 
 <details>
   <summary id="exampleABC"><h1>Example</h1></summary>
-  
-  This is the content that will be hidden/shown when the user clicks on the summary element.
+  content
 </details>
