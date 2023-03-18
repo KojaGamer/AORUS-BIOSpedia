@@ -1,7 +1,34 @@
 Test 1
+<details>
+  <summary><a name="example">Example</a></summary>
+
+  This is the content that will be hidden/shown when the user clicks on the summary element.
+  
+  You can include links within the content that point to the summary element, like [this](#example).
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - [Advanced CPU Settigns](#Advanced-CPU-Settigns)
 
-<details>
+<details><summary>Advanced CPU Settings</summary>
 
 * Core Performance Boost
 
