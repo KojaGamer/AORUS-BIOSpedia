@@ -89,6 +89,29 @@
 
 * Max CPU Boost Clock Override
 
+## Advanced CPU Settigns
+
+* Core Performance Boost
+
+* SVM
+
+* AMD Cool&Quiet fuction
+
+* Global C-satae Control
+
+* Power Supply Idle Control
+
+* CCD Control
+
+* Downcore Control
+
+* SMT Mode
+
+* CPPC
+
+* CPPC Preferred Cores
+______________________
+
 * Extreme Memory Profile(X.M.P.)
 
 * XMP High Frequency Support
@@ -125,27 +148,7 @@
 
 * VDDG Voltage
 
-## Advanced CPU Settigns
 
-* Core Performance Boost
-
-* SVM
-
-* AMD Cool&Quiet fuction
-
-* Global C-satae Control
-
-* Power Supply Idle Control
-
-* CCD Control
-
-* Downcore Control
-
-* SMT Mode
-
-* CPPC
-
-* CPPC Preferred Cores
 
 ## Advanced Memory Settigns
 
