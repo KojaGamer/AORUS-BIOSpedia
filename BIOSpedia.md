@@ -129,8 +129,7 @@ ______________
 ### Memory Subtimings
 ### SPD Info
 
-* Power Down Enable
-</details>
+* Power Down Enable</details>
 
 ______________
 * CPU Vcore
