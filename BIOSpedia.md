@@ -122,6 +122,13 @@ ______________________
 
 * UCLK DIV1 MODE
 
+## Advanced Memory Settigns
+
+### Memory Subtimings
+
+### SPD Info
+______________________
+
 * CPU Vcore
 
 * Dynamic Vcore(DVID)
@@ -147,14 +154,6 @@ ______________________
 * VDDG Voltage Control
 
 * VDDG Voltage
-
-
-
-## Advanced Memory Settigns
-
-### Memory Subtimings
-
-### SPD Info
 
 ## CPU-VRM Settings
 
