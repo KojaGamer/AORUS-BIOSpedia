@@ -63,6 +63,68 @@
 
 # Tweaker
 
+* CPU Clock Control
+
+* Spread Spectrum Control
+
+* CPU Ratio Mode
+
+* CPU Clock Ratio
+
+* Precision Boost Overdrive
+
+* Precision Boost Overdrive:
+
+* PBO Limits
+
+* PPT Limit [W] 
+
+* TDC Limit [A]
+
+* EDC Limit [A]
+
+* Precision Boost Overdrive Scalar
+
+* Precision Boost Overdrive Scalar
+
+* Max CPU Boost Clock Override
+
+* Extreme Memory Profile(X.M.P.)
+
+* XMP High Frequency Support
+
+* System Memory Multiplier
+
+* FCLK Frequency
+
+* UCLK DIV1 MODE
+
+* CPU Vcore
+
+* Dynamic Vcore(DVID)
+
+* VCORE SOC
+
+* Dynamic VCORE SOC(DVID)
+
+* CPU VDD18
+
+* CPU VDDP
+
+* DRAM Volrage (CH A/B)
+
+* DDRVPP Voltage (CH A/B)
+
+* DRAM Termination (CH A/B)
+
+* VDDP Voltage Control
+
+* VDDP Voltage
+
+* VDDG Voltage Control
+
+* VDDG Voltage
+
 ## Advanced CPU Settigns
 
 * Core Performance Boost
