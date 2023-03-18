@@ -5,17 +5,25 @@ Test 1
 
 
 
+<style>
+summary h1 {
+  display: inline;
+}
+summary::before {
+  content: "";
+  display: inline-block;
+  height: 0.5em;
+  width: 0.5em;
+  margin-right: 0.5em;
+  transform: rotate(45deg);
+  transform-origin: 50% 50%;
+}
+</style>
+
 <details>
   <summary id="exampleABC"><h1>Example</h1></summary>
   content
 </details>
-
-<style>
-details summary h1 {
-  display: inline;
-}
-</style>
-
 
 
 
