@@ -29,26 +29,6 @@ Test 1
 
 
 
-    .column-list {
-        column-count: 2;
-        column-gap: 2em;
-    }
-</style>
-
-<div class="column-list">
-    <ul>
-        <li><a href="#example1">Example 1</a></li>
-        <li><a href="#example2">Example 2</a></li>
-        <li><a href="#example3">Example 3</a></li>
-        <li><a href="#example4">Example 4</a></li>
-        <li><a href="#example5">Example 5</a></li>
-        <li><a href="#example6">Example 6</a></li>
-        <li><a href="#example7">Example 7</a></li>
-        <li><a href="#example8">Example 8</a></li>
-        <li><a href="#example9">Example 9</a></li>
-        <li><a href="#example10">Example 10</a></li>
-    </ul>
-</div>
 
 
 
