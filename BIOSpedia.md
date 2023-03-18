@@ -151,9 +151,9 @@ Test
 * CPPC
 
 * CPPC Preferred Cores
-________________
 </details>
 
+______________
 * Extreme Memory Profile(X.M.P.)
 
 * XMP High Frequency Support
@@ -172,9 +172,9 @@ ________________
 ### SPD Info
 
 * Power Down Enable
-________________
 </details>
 
+______________
 * CPU Vcore
 
 * Dynamic Vcore(DVID)
