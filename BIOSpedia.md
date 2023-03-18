@@ -110,8 +110,7 @@
 
 * CPPC
 
-* CPPC Preferred Cores
-</details>
+* CPPC Preferred Cores</details>
 
 ______________
 * Extreme Memory Profile(X.M.P.)
