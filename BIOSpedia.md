@@ -1,10 +1,47 @@
 Test 1
 
+To link to the example summary, use the following syntax: [link text](#example)
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<details>
+  <summary id="example">Example</summary>
+  
+  This is the content that will be hidden/shown when the user clicks on the summary element.
+</details>
 
 
 
