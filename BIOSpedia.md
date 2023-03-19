@@ -134,25 +134,25 @@ ___
 
 # Settings
 
-## Platform Power
+  ## Platform Power
 
-## IO Ports
+  ## IO Ports
 
-### USB Configuration
+    ### USB Configuration
 
-### NVMe Configuration
+    ### NVMe Configuration
 
-### SATA Configuration
+    ### SATA Configuration
 
-### Network Stack Configuration
+    ### Network Stack Configuration
 
-### Intel® I211 Gigabit Network Connection
+    ### Intel® I211 Gigabit Network Connection
 
-#### NIC Configuration
+      #### NIC Configuration
 
-## AMD CBS
+  ## AMD CBS
 
-### XFR Enhancement
+    ### XFR Enhancement
 
 * Precision Boost Overdrive
 * PPT Limit
