@@ -394,7 +394,19 @@ ___
 * Max Voltage Offset
 * cTDP Control
   * cTDP
+
 ##### Fan Control
+* Fan Table Control
+  * Low Temperature
+  * Medium Temperature
+  * High Temperature
+  * Critical Temperature
+  * Low Pwm 
+  * Medium Pwm 
+  * High Pwm 
+  * Temperature Hysteresis
+  * Pwm Frequency
+  * Fan Polarity
 
 ___
 * EfficiencyModeEn
