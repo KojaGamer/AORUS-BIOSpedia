@@ -342,9 +342,16 @@ ___
 * Cmd2T
 * Gear Down Mode
 
-<h4>CAD Bus Configuration</h4>
-
-[(Duplicated)](#CAD-Bus-Configuration)
+#### CAD Bus Configuration
+* CAD Bus Timing User Controls
+* AddrCmdSetup
+* CsOdtSetup
+* CkeSetup
+* CAD Bus Drive Strength User Controls
+* ClkDrvStren
+* AddrCmdDrvStren
+* CsOdtDrvStren
+* CkeDrvStren
 
 <h4>Data Bus Configuration</h4>
 
@@ -510,16 +517,9 @@ ___
 * Cmd2T
 * Gear Down Mode
 
-#### CAD Bus Configuration
-* CAD Bus Timing User Controls
-* AddrCmdSetup
-* CsOdtSetup
-* CkeSetup
-* CAD Bus Drive Strength User Controls
-* ClkDrvStren
-* AddrCmdDrvStren
-* CsOdtDrvStren
-* CkeDrvStren
+<h4>CAD Bus Configuration</h4>
+
+[(Duplicated)](#CAD-Bus-Configuration)
 
 #### Data Bus Configuration
 * Data Bus Configuration User Controls
