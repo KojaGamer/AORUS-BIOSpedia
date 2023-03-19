@@ -347,10 +347,20 @@ ___
 #### DRAM Timing Configuration
 
 #### DRAM Controller Configuration
+* Cmd2T
+* Gear Down Mode
 
 #### CAD Bus Configuration
 
 #### Data Bus Configuration
+* Data Bus Configuration User Controls
+* RttNom
+* RttWe
+* RttPark
+
+___
+* Power Down Enable
+* Infinity Fabric Frequency and Dividers
 
 ## PC Health
 
