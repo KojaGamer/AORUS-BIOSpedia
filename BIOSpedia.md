@@ -238,8 +238,7 @@ ___
 
 #### Performance
 
-<h5>Custom Core Pstates</h5>
-Duplicated BIOS option.
+<h5>Custom Core Pstates (Duplicated)</h5>
 
 [Custom Core Pstates](#Custom-Core-Pstates)
 
