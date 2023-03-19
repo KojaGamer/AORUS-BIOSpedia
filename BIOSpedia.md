@@ -218,7 +218,31 @@ ___
 
 #### ACPI
 
+* ACPI SRAT L3 Cache As NUMA Domain
+* ACPI SLIT Distance Control
+* ACPI SLIT  same socket distance
+* ACPI SLIT remote socket distance
+* ACPI SLIT local SLink distance
+* ACPI SLIT remote SLink distance
+* ACPI SLIT local inter-SLink distance
+* ACPI SLIT remote inter-SLink distance
+* ACPI SLIT remote relative distance
+
 #### Link
+
+* GMI encryption control
+* xGMI encryption control
+* CAKE CRC perf bounds Control
+* 4-link xGMI max speed
+* 3-link xGMI max speed
+* xGMI TXEQ Mode
+* PcsCG control
+
+___
+* Disable DF to external downstram IP SyncFloodPropagation
+* Disable DF sync flood propagation
+* CC6 memory region encryption
+* Memory Clear
 
 ### UMC Common Options
 
