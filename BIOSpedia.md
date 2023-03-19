@@ -223,6 +223,12 @@ ___
 
 ### Custom Core Pstates
 
+* Custom Pstate0
+
+* Custom Pstate0 Freq (MHz)
+
+* Pstate0 VID
+
 ___
 * NUMA nodes per socket
 
