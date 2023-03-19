@@ -341,6 +341,44 @@ ___
 
 ### DDR and Infinity Fabric Frequency/Timings
 #### DRAM Timing Configuration
+* Overclock
+* Memory Clock Speed
+* Tcl Trcdrd
+* Trcdrd
+* Trcdwr
+* Trp
+* Tras
+* Trc Ctrl
+* Trc
+* TrrdS
+* TrrdL
+* Tfaw Ctrl
+* Tfaw
+* TwtrS
+* TwtrL
+* Twr
+* Trcpage Ctrl
+* Trcpage
+* TrereScL Ctrl
+* TrereScL
+* TwrwrScL Ctrl
+* TwrwrScL
+* Trfc Ctrl
+* Trfc
+* Trfc2 Ctrl
+* Trfc4 Ctrl
+* Tcwl
+* Trtp
+* Tcke
+* Trdwr
+* Twrrd
+* TwrwrSc
+* TwrwrDd
+* TwrwrDd
+* TrdrdSc
+* TrdrdSd
+* TrdrdDd
+* ProcODT
 
 #### DRAM Controller Configuration
 * Cmd2T
