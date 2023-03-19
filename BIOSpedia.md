@@ -222,6 +222,7 @@ ___
 * LN2  Mode
 
 <details><summary id="Custom Core Pstates"><h3>Custom Core Pstates</h3></summary>
+
 * Custom Pstate0
 
 * Custom Pstate0 Freq (MHz)
