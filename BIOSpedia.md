@@ -56,7 +56,7 @@
     - [DDR and Infinity Fabric Frequency/Timings](#DDR-and-Infinity-Fabric-Frequency/Timings)
       - DRAM Timing Configuration
       - [DRAM Controller Configuration](#DRAM-Controller-Configuration)
-      - [CAD Bus Configuration](#CAD-Bus-Configuration)
+      - CAD Bus Configuration
       - [Data Bus Configuration](#Data-Bus-Configuration)
   - [PC Health](#PC-Health)
   - [Smart Fan 5](#Smart-Fan-5)
