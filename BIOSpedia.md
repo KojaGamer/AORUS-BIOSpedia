@@ -327,7 +327,9 @@ ___
 
 ### UMC Common Options
 #### DDR4 Common Options
-##### DRAM Timing Configuration
+<h5>DRAM Timing Configuration</h5>
+
+[(Duplicated)](#DRAM-Timing-Configuration)
 
 ##### DRAM Controller Configuration
 ###### DRAM Power Options
