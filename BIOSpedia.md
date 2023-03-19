@@ -395,7 +395,9 @@ ___
 * cTDP Control
   * cTDP
 
-<details><summary id="Fan Control"><h5>Fan Control</h5></summary>* Fan Table Control
+<details><summary id="Fan Control"><h5>Fan Control</h5></summary>
+  
+  * Fan Table Control
   * Low Temperature
   * Medium Temperature
   * High Temperature
