@@ -272,7 +272,6 @@ ___
 ##### DRAM Timing Configuration
 
 ##### DRAM Controller Configuration
-
 ###### DRAM Power Options
 
 ##### CAD Bus Configuration
@@ -280,19 +279,16 @@ ___
 ##### Data Bus Configuration
 
 ##### Common RAS
-
 ###### ECC Configuration
 
 ##### Security
 
 ##### Phy Configuration
-
 ###### PMU Training
 
 #### DRAM Memory Mapping
 
 #### Memory MBIST
-
 ##### Data Eye
 
 #### NVDIMM
