@@ -337,6 +337,10 @@ ___
 * ECO Mode
 
 ### Manual CPU Overclocking
+* CPU Frequency
+* CPU Voltage
+* Core control
+* SMT Control
 
 ### DDR and Infinity Fabric Frequency/Timings
 
