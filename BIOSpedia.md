@@ -68,62 +68,37 @@
 # Tweaker
 
 * CPU Clock Control
-
 * Spread Spectrum Control
-
 * CPU Ratio Mode
-
 * CPU Clock Ratio
-
 * Precision Boost Overdrive
-
 * Precision Boost Overdrive:
-
 * PBO Limits
-
 * PPT Limit [W] 
-
 * TDC Limit [A]
-
 * EDC Limit [A]
-
 * Precision Boost Overdrive Scalar
-
 * Precision Boost Overdrive Scalar
-
 * Max CPU Boost Clock Override
 
 <details><summary id="Advanced CPU Settings"><h2>Advanced CPU Settings</h2></summary>
 
 * Core Performance Boost
-
 * SVM
-
 * AMD Cool&Quiet fuction
-
 * Global C-state Control
-
 * Power Supply Idle Control
-
 * CCD Control
-
 * Downcore Control
-
 * SMT Mode
-
 * CPPC
-
 * CPPC Preferred Cores</details>
 
 ___
 * Extreme Memory Profile(X.M.P.)
-
 * XMP High Frequency Support
-
 * System Memory Multiplier
-
 * FCLK Frequency
-
 * UCLK DIV1 MODE
 
 <details><summary id="Advanced Memory Settigns"><h2>Advanced Memory Settigns</h2></summary>
@@ -136,41 +111,25 @@ ___
 
 ___
 * CPU Vcore
-
 * Dynamic Vcore(DVID)
-
 * VCORE SOC
-
 * Dynamic VCORE SOC(DVID)
-
 * CPU VDD18
-
 * CPU VDDP
-
 * DRAM Volrage (CH A/B)
-
 * DDRVPP Voltage (CH A/B)
-
 * DRAM Termination (CH A/B)
-
 * VDDP Voltage Control
-
 * VDDP Voltage
-
 * VDDG Voltage Control
-
 * VDDG Voltage
 
 ## CPU-VRM Settings
 
 * CPU Vcore Loadline Calibration
-
 * Vcore SOC Loadline Calibration
-
 * CPU Vcore Protection
-
 * CPU Vcore Current Protection
-
 * PWM Phase Control
 
 # Settings
@@ -196,48 +155,30 @@ ___
 ### XFR Enhancement
 
 * Precision Boost Overdrive
-
 * PPT Limit
-
 * TDC Limit
-
 * EDC Limit
-
 * Precision Boost Overdrive Scalar
-
 * customized Precision Boost Overdrive Scalar
-
 * FCLK Frequency
-
 * SOC OVERCLOCK VID
-
 * UCLK DIV 1 MODE
-
 * VDDP Voltage Control
-
 * VDDG Voltage Control
-
 * SoC/Uncore OC Mode
-
 * LN2  Mode
 
 <details><summary id="Custom Core Pstates"><h3>Custom Core Pstates</h3></summary>
 
 * Custom Pstate0
-
 * Custom Pstate0 Freq (MHz)
-
 * Pstate0 VID </details>
 
 ___
 * NUMA nodes per socket
-
 * Memory interleaving
-
 * ACS Enable
-
 * PCIe ARI Support
-
 * PCIe Ten Bit Tag Support
 
 ### CPU Common Options
@@ -251,34 +192,22 @@ ___
 #### Prefetcher settings
 
 * L1 Stream HW Prefetcher
-
 * L2 Stream HW Prefetcher
 
 #### Core Watchdog
 
 * Core Watchdog Timer Enable
 ___
-
 * Core Performance Boost
-
 * Global C-state Control
-
 * Power Supply Idle Control
-
 * SEV ASID Count
-
 * SEV-ES ASID Space Limit Control
-
   * SEV-ES ASID Space Limit
-
 * Streaming Stores Control
-
 * Local APIC Mode
-
 * ACPI_CST C1 Declaration
-
 * MCA error thresh enable
-
 * PPIN Opt-in
 
 ### DF Common Options
