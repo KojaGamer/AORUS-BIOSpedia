@@ -50,7 +50,7 @@
       - [Memory MBIST](#Memory-MBIST)
         - [Data Eye](#Data-Eye)
       - [NVDIMM](#NVDIMM)
-    - [XFR Enhancement](#XFR-Enhancement)
+    - XFR Enhancement
   - [AMD Overclocking](#AMD-Overclocking)
     - [Manual CPU Overclocking](#Manual-CPU-Overclocking)
     - [DDR and Infinity Fabric Frequency/Timings](#DDR-and-Infinity-Fabric-Frequency/Timings)
