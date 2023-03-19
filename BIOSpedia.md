@@ -12,7 +12,7 @@
       - [NIC Configuration](#NIC-Configuration)
     - [Network Stack Configuration](#Network-Stack-Configuration)
     - [NVMe Configuration](#NVMe-Configuration)
-      - [Samsung SSD 970 EVO Plus 250GB](#)
+      - [Samsung SSD 970 EVO Plus 250GB](#Samsung-SSD-970-EVO-Plus-250GB)
     - [SATA Configuration](#SATA-Configuration)
     - [USB Configuration](#USB-Configuration)
   - [Miscellaneous](#Miscellaneous)
@@ -149,6 +149,8 @@ ___
 * USB FLASH DRIVE PMAP
 
 ### NVMe Configuration
+
+#### Samsung SSD 970 EVO Plus 250GB
 
 ### SATA Configuration
 * SATA Mode
