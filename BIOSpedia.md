@@ -178,10 +178,10 @@ ___
 * Sort-off by PWR-BTTN
 * Power Loading
 * Resume by Alarm
-* Wake up day
-* Wake up hour
-* Wake up minute
-* Wake up second
+  * Wake up day
+  * Wake up hour
+  * Wake up minute
+  * Wake up second
 * Wake on LAN
 * High Precision Event Timer
 
@@ -297,7 +297,7 @@ ___
 #### ACPI
 * ACPI SRAT L3 Cache As NUMA Domain
 * ACPI SLIT Distance Control
-* ACPI SLIT  same socket distance
+* ACPI SLIT same socket distance
 * ACPI SLIT remote socket distance
 * ACPI SLIT local SLink distance
 * ACPI SLIT remote SLink distance
@@ -403,10 +403,10 @@ ___
 * SoC/Uncore OC Mode
 * SoC Voltage
 * VDDP Voltage Control
-* VDDP Voltage Control
+  * VDDP Voltage Control
 * VDDG Voltage Control
-* VDDF CCD Voltage Control
-* VDDG IOD Voltage Control
+  * VDDF CCD Voltage Control
+  * VDDG IOD Voltage Control
 * NUMA nodes per socket
 * LN2 Mode
 * ECO Mode
