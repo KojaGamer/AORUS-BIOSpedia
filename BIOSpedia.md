@@ -223,6 +223,7 @@ ___
 
 ### Custom Core Pstates
 
+___
 * NUMA nodes per socket
 
 * Memory interleaving
@@ -238,6 +239,8 @@ ___
 #### Performance
 
 ##### Custom Core Pstates
+
+Duplicated BIOS option
 
 #### Prefetcher settings
 
