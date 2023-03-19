@@ -239,7 +239,9 @@ ___
 #### Performance
 
 <h5>Custom Core Pstates</h5>
-Duplicated BIOS option. [Custom Core Pstates](#Custom-Core-Pstates)
+Duplicated BIOS option.
+
+[Custom Core Pstates](#Custom-Core-Pstates)
 
 #### Prefetcher settings
 
