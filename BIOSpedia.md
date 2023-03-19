@@ -327,19 +327,51 @@ ___
 ##### DRAM Controller Configuration
 ###### DRAM Power Options
 
-##### CAD Bus Configuration
+<h4>CAD Bus Configuration</h4>
 
-##### Data Bus Configuration
+[(Duplicated)](#CAD-Bus-Configuration)
+
+<h5>Data Bus Configuration</h5>
+
+[(Duplicated)](#Data-Bus-Configuration)
 
 ##### Common RAS
+* Data Poisoning
+* DRAM Post Package Repair
+* RCD Parity
+* DRAM Address Command Parity Retry
+* Max Parity Error Replay
+* Write CRC Enable
+* DRAM Write CRC Enable and Retry Limit
+* Max Write CRC Error Replay
+* Disable Memory Error Injection
+
 ###### ECC Configuration
+* DRAM ECC Symbol Size
+* DRAM ECC Enable
+* DRAM UECC Retry
 
 ##### Security
+* TSME
+* Data Scramble
 
 ##### Phy Configuration
 ###### PMU Training
+* DFE Read Training
+* FFE Write Training
+* PMU Pattern Bits Control
+* MR6VrefDQ Control
+* CPU Vref Training Seed Control
 
 #### DRAM Memory Mapping
+* Chipselect Interleaving
+* BankGroupSwap
+* BankGroupSwapAlt
+* Address Hash Bank 2 ColXor
+* Address Hash Bank
+* Address Hash CS
+* Address Hash Rm
+* SPD Read Optimization
 
 #### Memory MBIST
 ##### Data Eye
