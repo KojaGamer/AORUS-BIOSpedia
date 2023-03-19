@@ -336,7 +336,7 @@ ___
 
 * Power Down Enable
 * Disable Burst/Postponed Refresh
-* DRAM Maximum Activate Count
+* DRAM Maximum Activate Count</details>
 
 ___
 * Cmd2T
