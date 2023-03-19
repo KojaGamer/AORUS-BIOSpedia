@@ -444,6 +444,11 @@ ___
 * User Password
 
 ## Secure Boot
+* Secure Boot
+* Secure Boot Mode
+* Restore Factory Keys
+* Reset To Setup Mode
+
 ### Key Managment
 
 ___
