@@ -332,7 +332,15 @@ ___
 [(Duplicated)](#DRAM-Timing-Configuration)
 
 ##### DRAM Controller Configuration
-###### DRAM Power Options
+<details><summary id="DRAM Power Options"><h6>DRAM Power Options</h6></summary>
+
+* Power Down Enable
+* Disable Burst/Postponed Refresh
+* DRAM Maximum Activate Count
+
+___
+* Cmd2T
+* Gear Down Mode
 
 <h4>CAD Bus Configuration</h4>
 
@@ -386,7 +394,6 @@ ___
 #### NVDIMM
 
 ### NBIO Common Options
-
 <h4>XFR Enhancement</h4>
 
 [(Duplicated)](#XFR-Enhancement)
