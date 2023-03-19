@@ -52,12 +52,12 @@
       - [NVDIMM](#NVDIMM)
     - [XFR Enhancement](#XFR-Enhancement)
   - [AMD Overclocking](#AMD-Overclocking)
+    - [Manual CPU Overclocking](Manual-CPU-Overclocking)
     - [DDR and Infinity Fabric Frequency/Timings](#DDR-and-Infinity-Fabric-Frequency/Timings)
       - [DRAM Timing Configuration](#DRAM-Timing-Configuration)
       - [DRAM Controller Configuration](#DRAM-Controller-Configuration)
       - [CAD Bus Configuration](#CAD-Bus-Configuration)
       - [Data Bus Configuration](#Data-Bus-Configuration)
-    - [Manual CPU Overclocking](Manual-CPU-Overclocking)
   - [PC Health](#PC-Health)
   - [Smart Fan 5](#Smart-Fan-5)
 - [System Info](#System-Info)
@@ -315,6 +315,28 @@ ___
 ##### NBIO LCLK DPM
 
 ## AMD Overclocking
+Precision Boost Overdrive
+PBO Limits
+PPT Limit [W]
+TDC Limit [A]
+EDC Limit [A]
+Precision Boost Overdrive Scalar
+Precision Boost Overdrive Scalar
+Max CPU Boost Clock Overdrive
+Platform Thermal Throttle Limit
+Platform Thermal Throttle Limit
+SoC/Uncore OC Mode
+SoC Voltage
+VDDP Voltage Control
+VDDP Voltage Control
+VDDG Voltage Control
+VDDF CCD Voltage Control
+VDDG IOD Voltage Control
+NUMA nodes per socket
+LN2 Mode
+ECO Mode
+
+### Manual CPU Overclocking
 
 ### DDR and Infinity Fabric Frequency/Timings
 
@@ -344,6 +366,8 @@ ___
 * AMD CPU fTPM
 
 ### Trusted Computing
+* Security Device Support
+* Disable Block Sid
 
 # System Info
 
