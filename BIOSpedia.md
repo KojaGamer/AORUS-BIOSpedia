@@ -105,7 +105,6 @@ ___
 ### Memory Subtimings
 
 ### SPD Info
-
 * Power Down Enable</details>
 
 ___
@@ -124,7 +123,6 @@ ___
 * VDDG Voltage
 
 ## CPU-VRM Settings
-
 * CPU Vcore Loadline Calibration
 * Vcore SOC Loadline Calibration
 * CPU Vcore Protection
@@ -152,7 +150,6 @@ ___
 ## AMD CBS
 
 ### XFR Enhancement
-
 * Precision Boost Overdrive
 * PPT Limit
 * TDC Limit
@@ -189,12 +186,10 @@ ___
 [(Duplicated)](#Custom-Core-Pstates)
 
 #### Prefetcher settings
-
 * L1 Stream HW Prefetcher
 * L2 Stream HW Prefetcher
 
 #### Core Watchdog
-
 * Core Watchdog Timer Enable
 ___
 * Core Performance Boost
@@ -216,7 +211,6 @@ ___
 #### Memory Adressing
 
 #### ACPI
-
 * ACPI SRAT L3 Cache As NUMA Domain
 * ACPI SLIT Distance Control
 * ACPI SLIT  same socket distance
@@ -228,7 +222,6 @@ ___
 * ACPI SLIT remote relative distance
 
 #### Link
-
 * GMI encryption control
 * xGMI encryption control
 * CAKE CRC perf bounds Control
