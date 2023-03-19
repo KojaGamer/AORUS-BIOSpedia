@@ -134,18 +134,39 @@ ___
 ## Platform Power
 
 ## IO Ports
+* Initial Display Output
+* HD Audio Controller
+* PCIEX16 Bifurcation
+* Above 4G Decoding
+* Re-Size BAR Support
+* Onboard Lan Controller
 
 ### USB Configuration
+* Legacy USB Support
+* XHCI Hand-off
+* USB Mass Storage Driver Support
+* Port 60/64 Emulation
+* USB FLASH DRIVE PMAP
 
 ### NVMe Configuration
 
 ### SATA Configuration
+* SATA Mode
+* NVMe RAID mode
+* Chipset SATA Port Enable
+* Chipset SATA Port Hot Plug
 
 ### Network Stack Configuration
+* Network Stack
 
 ### Intel® I211 Gigabit Network Connection
 
 #### NIC Configuration
+* Link Speed
+* Wake On LAN
+
+___
+* Blink LEDs
 
 ## AMD CBS
 
