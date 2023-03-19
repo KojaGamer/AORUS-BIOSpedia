@@ -331,7 +331,7 @@ ___
 
 [(Duplicated)](#CAD-Bus-Configuration)
 
-<h5>Data Bus Configuration</h5>
+<h4>Data Bus Configuration</h4>
 
 [(Duplicated)](#Data-Bus-Configuration)
 
