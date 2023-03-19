@@ -131,6 +131,17 @@ ___
 
 # Settings
 ## Platform Power
+* AC BACK
+* ErP
+* Sort-off by PWR-BTTN
+* Power Loading
+* Resume by Alarm
+* Wake up day
+* Wake up hour
+* Wake up minute
+* Wake up second
+* Wake on LAN
+* High Precision Event Timer
 
 ## IO Ports
 * Initial Display Output
