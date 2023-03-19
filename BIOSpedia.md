@@ -315,26 +315,26 @@ ___
 ##### NBIO LCLK DPM
 
 ## AMD Overclocking
-Precision Boost Overdrive
-PBO Limits
-PPT Limit [W]
-TDC Limit [A]
-EDC Limit [A]
-Precision Boost Overdrive Scalar
-Precision Boost Overdrive Scalar
-Max CPU Boost Clock Overdrive
-Platform Thermal Throttle Limit
-Platform Thermal Throttle Limit
-SoC/Uncore OC Mode
-SoC Voltage
-VDDP Voltage Control
-VDDP Voltage Control
-VDDG Voltage Control
-VDDF CCD Voltage Control
-VDDG IOD Voltage Control
-NUMA nodes per socket
-LN2 Mode
-ECO Mode
+* Precision Boost Overdrive
+* PBO Limits
+* PPT Limit [W]
+* TDC Limit [A]
+* EDC Limit [A]
+* Precision Boost Overdrive Scalar
+* Precision Boost Overdrive Scalar
+* Max CPU Boost Clock Overdrive
+* Platform Thermal Throttle Limit
+* Platform Thermal Throttle Limit
+* SoC/Uncore OC Mode
+* SoC Voltage
+* VDDP Voltage Control
+* VDDP Voltage Control
+* VDDG Voltage Control
+* VDDF CCD Voltage Control
+* VDDG IOD Voltage Control
+* NUMA nodes per socket
+* LN2 Mode
+* ECO Mode
 
 ### Manual CPU Overclocking
 
