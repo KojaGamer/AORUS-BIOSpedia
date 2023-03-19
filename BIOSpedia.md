@@ -151,6 +151,9 @@ ___
 ### NVMe Configuration
 
 #### Samsung SSD 970 EVO Plus 250GB
+* Self Test Option
+* Self Test Action
+* Run Device Self Test
 
 ### SATA Configuration
 * SATA Mode
