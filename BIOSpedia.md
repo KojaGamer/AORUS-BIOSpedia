@@ -221,13 +221,12 @@ ___
 
 * LN2  Mode
 
-### Custom Core Pstates
-
+<details><summary id="Custom Core Pstates"><h3>Custom Core Pstates</h3></summary>
 * Custom Pstate0
 
 * Custom Pstate0 Freq (MHz)
 
-* Pstate0 VID
+* Pstate0 VID </details>
 
 ___
 * NUMA nodes per socket
