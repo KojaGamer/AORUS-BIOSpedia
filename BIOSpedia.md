@@ -148,7 +148,6 @@ ___
 * USB FLASH DRIVE PMAP
 
 ### NVMe Configuration
-
 #### Samsung SSD 970 EVO Plus 250GB
 * Self Test Option
 * Self Test Action
