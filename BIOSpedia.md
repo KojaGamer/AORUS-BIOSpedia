@@ -207,8 +207,17 @@ ___
 ### DF Common Options
 
 #### Scrubber
+* DRAM scrub time
+* Poison scrubber control
+* Redirect scrubber control
+* Redirect scrubber limit
 
 #### Memory Adressing
+* NUMA nodes per socket
+* Memory interleaving
+* Memory interleaving size
+* 1TB remap
+* DRAM map inversion
 
 #### ACPI
 * ACPI SRAT L3 Cache As NUMA Domain
