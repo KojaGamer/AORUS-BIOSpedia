@@ -173,6 +173,8 @@ ___
 * PWM Phase Control
 
 # Settings
+![230316162544](https://user-images.githubusercontent.com/88921486/226192380-2ae3842f-b266-4b02-898a-149a2a8a5a18.JPG)
+
 ## Platform Power
 * AC BACK
 * ErP
