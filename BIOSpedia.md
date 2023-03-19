@@ -195,6 +195,32 @@ ___
 
 ### XFR Enhancement
 
+* Precision Boost Overdrive
+
+* PPT Limit
+
+* TDC Limit
+
+* EDC Limit
+
+* Precision Boost Overdrive Scalar
+
+* customized Precision Boost Overdrive Scalar
+
+* FCLK Frequency
+
+* SOC OVERCLOCK VID
+
+* UCLK DIV 1 MODE
+
+* VDDP Voltage Control
+
+* VDDG Voltage Control
+
+* SoC/Uncore OC Mode
+
+* LN2  Mode
+
 ### Custom Core Pstates
 
 * NUMA nodes per socket
