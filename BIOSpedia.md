@@ -244,9 +244,9 @@ ___
 
 #### Performance
 
-<h5>Custom Core Pstates (Duplicated)</h5>
+<h5>Custom Core Pstates</h5>
 
-[Custom Core Pstates](#Custom-Core-Pstates)
+[(Duplicated)](#Custom-Core-Pstates)
 
 #### Prefetcher settings
 
