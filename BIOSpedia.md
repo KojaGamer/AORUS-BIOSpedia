@@ -239,7 +239,6 @@ ___
 #### Performance
 
 ##### Custom Core Pstates
-
 Duplicated BIOS option
 
 #### Prefetcher settings
