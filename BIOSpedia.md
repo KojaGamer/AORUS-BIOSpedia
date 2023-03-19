@@ -300,7 +300,7 @@ ___
 ### NBIO Common Options
 
 <h4>XFR Enhancement</h4>
-[(Duplicated)](#Custom-Core-Pstates)
+[(Duplicated)](#XFR-Enhancement)
 
 #### SMU Common Options
 ##### Fan Control
