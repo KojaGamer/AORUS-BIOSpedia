@@ -103,6 +103,48 @@ ___
 <details><summary id="Advanced Memory Settigns"><h2>Advanced Memory Settigns</h2></summary>
 
 ### Memory Subtimings
+* CAS Latency
+* tRCDRD
+* tRCDWR
+* tRP
+* tRAS
+* tRC
+* tWR
+* tCWL
+* tRRD_S
+* tRRD_L
+* tWTR_S
+* tWTR_L
+* tRFC
+* tRFC2
+* tRFC4
+* tRTP
+* tFAW
+* tRCPAGE
+* tRDWR
+* tRDRDSC
+* tRDRDSD
+* tRDRDDD
+* tRDRD_SCL
+* tWRRD
+* tWRWRSC
+* tWRWRSD
+* tWRWRDD
+* tWRWR_SCL
+* tCKE
+* ProcODT
+* Command Rate(tCMD)
+* Gear Down Mode
+* AddrCmdSetup
+* CsOdtSetup
+* CkeSetup
+* ClkDrvStren
+* AddrCmdDrvStren
+* CsOdtDrvStren
+* CkeDrvStren
+* RttNom
+* RttWr
+* RttPark
 
 ### SPD Info
 * Power Down Enable</details>
