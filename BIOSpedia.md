@@ -391,9 +391,30 @@ ___
 [(Duplicated)](#XFR-Enhancement)
 
 #### SMU Common Options
+* Max Voltage Offset
+* cTDP Control
+  * cTDP
 ##### Fan Control
 
+___
+* EfficiencyModeEn
+* Package Power Limit Control
+  * Package Power Limit
+* APBDIS
+* DF Cstates
+* CPPC
+* CPPC Preferred Cores
+
 ##### NBIO LCLK DPM
+* NBIO DPM Control
+  * Socket 0 NBIO Target 0 DPM Level
+  * Socket 0 NBIO Target 1 DPM Level
+  * Socket 0 NBIO Target 2 DPM Level
+  * Socket 0 NBIO Target 3 DPM Level
+  * Socket 1 NBIO Target 0 DPM Level
+  * Socket 1 NBIO Target 1 DPM Level
+  * Socket 1 NBIO Target 2 DPM Level
+  * Socket 1 NBIO Target 3 DPM Level
 
 ## AMD Overclocking
 * Precision Boost Overdrive
