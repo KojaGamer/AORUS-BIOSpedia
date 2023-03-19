@@ -395,7 +395,8 @@ ___
 * cTDP Control
   * cTDP
 
-##### Fan Control
+<details><summary id="Fan Control"><h5>Fan Control</h5></summary>
+
 * Fan Table Control
   * Low Temperature
   * Medium Temperature
@@ -406,7 +407,7 @@ ___
   * High Pwm 
   * Temperature Hysteresis
   * Pwm Frequency
-  * Fan Polarity
+  * Fan Polarity</details>
 
 ___
 * EfficiencyModeEn
