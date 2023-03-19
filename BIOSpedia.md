@@ -427,6 +427,24 @@ ___
 # System Info
 
 # Boot
+* Boot Option #1
+* Boot Option #2
+* Bootup NumLock State
+* Security Option
+* Full Screen LOGO Show
+* Fast Boot
+* SATA Support
+* NVMe Support
+* VGA Support
+* USB Support
+* Network Stack Driver Support
+* CSM Support
+* LAN PXE Boot Option ROM
+* Administrator Password
+* User Password
 
 ## Secure Boot
 ### Key Managment
+
+___
+* Preferrd Operating Mode
