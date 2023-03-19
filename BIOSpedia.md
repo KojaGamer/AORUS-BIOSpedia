@@ -54,7 +54,7 @@
   - [AMD Overclocking](#AMD-Overclocking)
     - [Manual CPU Overclocking](#Manual-CPU-Overclocking)
     - [DDR and Infinity Fabric Frequency/Timings](#DDR-and-Infinity-Fabric-Frequency/Timings)
-      - [DRAM Timing Configuration](#DRAM-Timing-Configuration)
+      - DRAM Timing Configuration
       - [DRAM Controller Configuration](#DRAM-Controller-Configuration)
       - [CAD Bus Configuration](#CAD-Bus-Configuration)
       - [Data Bus Configuration](#Data-Bus-Configuration)
