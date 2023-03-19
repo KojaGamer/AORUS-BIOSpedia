@@ -257,9 +257,7 @@ ___
 ### CPU Common Options
 #### Performance
 
-<h5>Custom Core Pstates</h5>
-
-[(Duplicated)](#Custom-Core-Pstates)
+<h5>Custom Core Pstates</h5>[(Duplicated)](#Custom-Core-Pstates)
 
 #### Prefetcher settings
 * L1 Stream HW Prefetcher
