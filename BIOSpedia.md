@@ -303,7 +303,8 @@ ___
 
 ### NBIO Common Options
 
-#### XFR Enhancement
+<h4>XFR Enhancement</h4>
+[(Duplicated)](#Custom-Core-Pstates)
 
 #### SMU Common Options
 
