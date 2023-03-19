@@ -166,9 +166,9 @@ ___
 
 ### Intel® I211 Gigabit Network Connection
 
-#### NIC Configuration
+<details><summary id="NIC Configuration"><h4>NIC Configuration</h4></summary>
 * Link Speed
-* Wake On LAN
+* Wake On LAN</details>
 
 ___
 * Blink LEDs
