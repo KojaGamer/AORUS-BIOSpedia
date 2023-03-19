@@ -282,20 +282,24 @@ ___
 * PPIN Opt-in
 
 ### DF Common Options
-#### Scrubber
+
+<details><summary id="Scrubber"><h4>Scrubber</h4></summary>
+
 * DRAM scrub time
 * Poison scrubber control
 * Redirect scrubber control
-* Redirect scrubber limit
+* Redirect scrubber limit</details>
 
-#### Memory Adressing
+<details><summary id="Memory Adressing"><h4>Memory Adressing</h4></summary>
+
 * NUMA nodes per socket
 * Memory interleaving
 * Memory interleaving size
 * 1TB remap
-* DRAM map inversion
+* DRAM map inversion</details>
 
-#### ACPI
+<details><summary id="ACPI"><h4>ACPI</h4></summary>
+
 * ACPI SRAT L3 Cache As NUMA Domain
 * ACPI SLIT Distance Control
 * ACPI SLIT same socket distance
@@ -304,16 +308,17 @@ ___
 * ACPI SLIT remote SLink distance
 * ACPI SLIT local inter-SLink distance
 * ACPI SLIT remote inter-SLink distance
-* ACPI SLIT remote relative distance
+* ACPI SLIT remote relative distance</details>
 
-#### Link
+<details><summary id="Link"><h4>Link</h4></summary>
+
 * GMI encryption control
 * xGMI encryption control
 * CAKE CRC perf bounds Control
 * 4-link xGMI max speed
 * 3-link xGMI max speed
 * xGMI TXEQ Mode
-* PcsCG control
+* PcsCG control</details>
 
 ___
 * Disable DF to external downstram IP SyncFloodPropagation
