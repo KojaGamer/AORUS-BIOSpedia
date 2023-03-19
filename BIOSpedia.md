@@ -228,7 +228,6 @@ ___
 * PPIN Opt-in
 
 ### DF Common Options
-
 #### Scrubber
 * DRAM scrub time
 * Poison scrubber control
@@ -269,9 +268,7 @@ ___
 * Memory Clear
 
 ### UMC Common Options
-
 #### DDR4 Common Options
-
 ##### DRAM Timing Configuration
 
 ##### DRAM Controller Configuration
@@ -306,7 +303,6 @@ ___
 [(Duplicated)](#Custom-Core-Pstates)
 
 #### SMU Common Options
-
 ##### Fan Control
 
 ##### NBIO LCLK DPM
