@@ -333,6 +333,15 @@ ___
 ## Smart Fan 5
 
 ## Miscellaneous
+* LEDs in System Power On State
+* LEDs in Sleep, Hibernation, and Soft Off States
+* PCIEX16 Slot Configuration
+* PCIe Slot Configuration
+* PCIe ASPM Mode
+* 3DMark01 Enhancement
+* IOMMU
+* TSME
+* AMD CPU fTPM
 
 ### Trusted Computing
 
