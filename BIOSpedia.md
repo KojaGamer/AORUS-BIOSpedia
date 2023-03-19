@@ -71,14 +71,13 @@
 * CPU Ratio Mode
 * CPU Clock Ratio
 * Precision Boost Overdrive
-* Precision Boost Overdrive:
-* PBO Limits
-* PPT Limit [W] 
-* TDC Limit [A]
-* EDC Limit [A]
-* Precision Boost Overdrive Scalar
-* Precision Boost Overdrive Scalar
-* Max CPU Boost Clock Override
+  * PBO Limits
+    * PPT Limit [W] 
+    * TDC Limit [A]
+    * EDC Limit [A]
+  * Precision Boost Overdrive Scalar
+    * Precision Boost Overdrive Scalar
+  * Max CPU Boost Clock Override
 
 <details><summary id="Advanced CPU Settings"><h2>Advanced CPU Settings</h2></summary>
 
