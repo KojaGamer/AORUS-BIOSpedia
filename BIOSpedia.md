@@ -63,6 +63,7 @@
 - [System Info](#System-Info)
 - [Boot](#Boot)
   - [Secure Boot](#Secure-Boot)
+    - [Key Managment](#Key-Managment)
 
 # Tweaker
 
@@ -320,3 +321,5 @@ ___
 # Boot
 
 ## Secure Boot
+
+### Key Managment
