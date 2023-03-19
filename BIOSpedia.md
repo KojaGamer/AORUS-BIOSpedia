@@ -65,6 +65,8 @@
   - [Secure Boot](#Secure-Boot)
     - [Key Managment](#Key-Managment)
 
+[Sources](#Sources)
+
 # Tweaker
 * CPU Clock Control
 * Spread Spectrum Control
