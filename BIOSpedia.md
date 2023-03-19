@@ -241,6 +241,10 @@ ___
 
 #### Prefetcher settings
 
+* L1 Stream HW Prefetcher
+
+* L2 Stream HW Prefetcher
+
 #### Core Watchdog
 
 * Core Watchdog Timer Enable
