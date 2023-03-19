@@ -351,6 +351,15 @@ ___
 * Gear Down Mode
 
 #### CAD Bus Configuration
+* CAD Bus Timing User Controls
+* AddrCmdSetup
+* CsOdtSetup
+* CkeSetup
+* CAD Bus Drive Strength User Controls
+* ClkDrvStren
+* AddrCmdDrvStren
+* CsOdtDrvStren
+* CkeDrvStren
 
 #### Data Bus Configuration
 * Data Bus Configuration User Controls
