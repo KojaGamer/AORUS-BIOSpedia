@@ -244,8 +244,8 @@ ___
 <details><summary id="Custom Core Pstates"><h3>Custom Core Pstates</h3></summary>
 
 * Custom Pstate0
-* Custom Pstate0 Freq (MHz)
-* Pstate0 VID </details>
+  * Custom Pstate0 Freq (MHz)
+  * Pstate0 VID </details>
 
 ___
 * NUMA nodes per socket
@@ -278,6 +278,7 @@ ___
 * Local APIC Mode
 * ACPI_CST C1 Declaration
 * MCA error thresh enable
+  * MCA error thresh count
 * PPIN Opt-in
 
 ### DF Common Options
