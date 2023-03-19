@@ -352,8 +352,6 @@ ___
 
 #### Data Bus Configuration
 
-### Manual CPU Overclocking
-
 ## PC Health
 
 ## Smart Fan 5
