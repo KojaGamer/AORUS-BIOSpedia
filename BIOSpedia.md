@@ -177,10 +177,10 @@ ___
 * Sort-off by PWR-BTTN
 * Power Loading
 * Resume by Alarm
-  * Wake up day
-  * Wake up hour
-  * Wake up minute
-  * Wake up second
+* Wake up day
+* Wake up hour
+* Wake up minute
+* Wake up second
 * Wake on LAN
 * High Precision Event Timer
 
