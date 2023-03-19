@@ -130,7 +130,6 @@ ___
 * PWM Phase Control
 
 # Settings
-
 ## Platform Power
 
 ## IO Ports
@@ -175,7 +174,6 @@ ___
 * Blink LEDs
 
 ## AMD CBS
-
 ### XFR Enhancement
 * Precision Boost Overdrive
 * PPT Limit
@@ -205,7 +203,6 @@ ___
 * PCIe Ten Bit Tag Support
 
 ### CPU Common Options
-
 #### Performance
 
 <h5>Custom Core Pstates</h5>
@@ -343,7 +340,6 @@ ___
 * SMT Control
 
 ### DDR and Infinity Fabric Frequency/Timings
-
 #### DRAM Timing Configuration
 
 #### DRAM Controller Configuration
@@ -395,5 +391,4 @@ ___
 # Boot
 
 ## Secure Boot
-
 ### Key Managment
