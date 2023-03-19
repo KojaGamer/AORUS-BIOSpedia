@@ -23,7 +23,7 @@
         - [Custom Core Pstates](#Custom-Core-Pstates)
       - [Prefetcher settings](#Prefetcher-settings)
       - [Core Watchdog](#Core-Watchdog)
-    - [Custom Core Pstates](#Custom-Core-Pstates)
+    - [Custom Core Pstates]
     - [DF Common Options](#DF-Common-Options)
       - [Scrubber](#Scrubber)
       - [Memory Adressing](#Memory-Adressing)
