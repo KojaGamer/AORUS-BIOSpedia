@@ -577,7 +577,14 @@ ___
 * Restore Factory Keys
 * Reset To Setup Mode
 
-### Key Managment
-
+<details><summary id="Key Managment"><h3>Key Managment</h3></summary>
+  
+* Factory Key Provision
+* Restore Factory Keys
+* Reset To Setup Mode
+* Export Secure Boot variables
+* Enroll Efi Image
+* Remove 'UEFI CA' from DB
+* Restore DB defaults</details>
 ___
 * Preferrd Operating Mode
