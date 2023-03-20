@@ -231,16 +231,18 @@ ___
 ## AMD CBS
 ### XFR Enhancement
 * Precision Boost Overdrive
-* PPT Limit
-* TDC Limit
-* EDC Limit
+  * PPT Limit
+  * TDC Limit
+  * EDC Limit
 * Precision Boost Overdrive Scalar
-* customized Precision Boost Overdrive Scalar
+  * customized Precision Boost Overdrive Scalar
 * FCLK Frequency
 * SOC OVERCLOCK VID
 * UCLK DIV 1 MODE
 * VDDP Voltage Control
+  * VDDP Voltage
 * VDDG Voltage Control
+  * VDDG Voltage
 * SoC/Uncore OC Mode
 * LN2  Mode
 
