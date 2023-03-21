@@ -538,6 +538,7 @@ ___
 * Infinity Fabric Frequency and Dividers
 
 ## PC Health
+![230316130030](https://user-images.githubusercontent.com/88921486/226683207-7adba852-0bf8-491f-9a0b-badf2925059d.JPG)
 
 ## Smart Fan 5
 
