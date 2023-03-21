@@ -248,6 +248,8 @@ ___
 
 <details><summary id="Custom Core Pstates"><h3>Custom Core Pstates</h3></summary>
 
+![230316134310](https://user-images.githubusercontent.com/88921486/226687600-f6dcfe61-c8c9-4e06-b882-7c799031736f.JPG)
+
 * Custom Pstate0
   * Custom Pstate0 Freq (MHz)
   * Pstate0 VID </details>
